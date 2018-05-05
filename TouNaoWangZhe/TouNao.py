@@ -38,10 +38,7 @@ def begin(filename):
             cho = j['data']['options']
             pagenum = [0, 10, 20]
             ans = []
-            A = 0
-            B = 0
-            C = 0
-            D = 0
+            A = B = C = D = 0
             for i in pagenum:
                 url = 'http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=' + quiz[:-1] + '&pn={}'.format(i)
                 wb_data = requests.get(url)
@@ -65,6 +62,7 @@ def begin(filename):
             for name, count in zip(cho, number):
                 print(name, count)
             index = number.index(max(number))
+            #设置颜色高亮
             print('\033[32;0m')
             print(("    应该选第    " + str((index + 1)) + "  个     " + str(cho[index])).center(50, '*'))
             print('\033[0m ')
