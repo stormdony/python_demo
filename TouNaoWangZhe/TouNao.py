@@ -1,8 +1,7 @@
 ﻿import json
 import time
 import requests
-from bs4 import BeautifulSoup as BS
-from urllib import parse
+
 
 
 def get_appinf(filename):
