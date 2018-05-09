@@ -2,8 +2,6 @@
 import time
 import requests
 
-
-
 def get_appinf(filename):
     f = open(filename, 'r', encoding='utf-8')
     try:
