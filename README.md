@@ -2,13 +2,13 @@
 
 
 * 应用Python完成的一些小而有趣项目
-	* GaoKao   			2018年高考数据爬取、可视化
-	* GaoKaoLine  		2018年北京高考分数线预测
-	* Pic_to_ascaii 	图片转字符
-	* QQ_Pet_Flight		Q宠大乐斗自动化
-	* TouNaoWangZhe   	头脑王者辅助脚本
-	* pyquery_jihaoba	使用PyQuery爬取集号吧手机号码
-	* numpy_demo		基于PyQt和Numpy制作的矩阵计算器
+	* [GaoKao](https://github.com/stormdony/python_demo/tree/master/GaoKao)   			2018年高考数据爬取、可视化
+	* [GaoKaoLine](https://github.com/stormdony/python_demo/tree/master/GaokaoLine)  		2018年北京高考分数线预测
+	* [Pic_to_ascaii](https://github.com/stormdony/python_demo/tree/master/Pic_to_ascaii) 	图片转字符
+	* [QQ_Pet_Flight](https://github.com/stormdony/python_demo/tree/master/QQ_Pet_Fight)		Q宠大乐斗自动化
+	* [TouNaoWangZhe](https://github.com/stormdony/python_demo/tree/master/TouNaoWangZhe)   	头脑王者辅助脚本
+	* [pyquery_jihaoba](https://github.com/stormdony/python_demo/tree/master/pyquery_jihaoba)	使用PyQuery爬取集号吧手机号码
+	
 
 
 ### 运行环境
