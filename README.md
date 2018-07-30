@@ -9,7 +9,7 @@
 	* [TouNaoWangZhe](https://github.com/stormdony/python_demo/tree/master/TouNaoWangZhe)   	头脑王者辅助脚本
 	* [pyquery_jihaoba](https://github.com/stormdony/python_demo/tree/master/pyquery_jihaoba)	使用PyQuery爬取集号吧手机号码
 	
-
+	* [numpy_calc ](https://github.com/stormdony/python_demo/tree/master/numpy_calc) 基于numpy和PyQt5制作的矩阵计算器
 
 ### 运行环境
 
