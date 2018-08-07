@@ -10,6 +10,7 @@
 	* [pyquery_jihaoba](https://github.com/stormdony/python_demo/tree/master/pyquery_jihaoba)	使用PyQuery爬取集号吧手机号码
 	
 	* [numpy_calc ](https://github.com/stormdony/python_demo/tree/master/numpy_calc) 基于numpy和PyQt5制作的矩阵计算器
+	* [Novel_Download_Tool](https://github.com/stormdony/python_demo/tree/master/Novel_Download_Tool) 爬取网络小说
 
 ### 运行环境
 
