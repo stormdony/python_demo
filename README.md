@@ -12,6 +12,7 @@
 	* [numpy_calc ](https://github.com/stormdony/python_demo/tree/master/numpy_calc) 基于numpy和PyQt5制作的矩阵计算器
 	* [Novel_Download_Tool](https://github.com/stormdony/python_demo/tree/master/Novel_Download_Tool) 爬取网络小说
 	* [Pic_to_sketck](https://github.com/stormdony/python_demo/tree/master/Pic_to_sketch) 图片转素描画
+	* [zhipin](https://github.com/stormdony/python_demo/tree/master/zhipin) 爬取Boss直聘网，对比python和java的招聘信息
 	
 	
 
@@ -28,6 +29,8 @@
 * 欢迎关注公众号：Python绿洲
 
 ![](https://i.imgur.com/uhBvX0N.jpg)
+
+* 个人博客: [Don Lex's Blog](https://stormdony.github.io)
 
 
 ### 授权相关
