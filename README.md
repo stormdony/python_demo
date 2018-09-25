@@ -13,6 +13,7 @@
 	* [Novel_Download_Tool](https://github.com/stormdony/python_demo/tree/master/Novel_Download_Tool) 爬取网络小说
 	* [Pic_to_sketck](https://github.com/stormdony/python_demo/tree/master/Pic_to_sketch) 图片转素描画
 	* [zhipin](https://github.com/stormdony/python_demo/tree/master/zhipin) 爬取Boss直聘网，对比python和java的招聘信息
+	* [Netease_Lyrics](https://github.com/stormdony/python_demo/tree/master/Netease_Lyrics) 一键获取带有时间轴的网易云音乐的歌词
 	
 	
 
