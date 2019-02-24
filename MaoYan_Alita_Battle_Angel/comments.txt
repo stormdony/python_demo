@@ -1,0 +1,1005 @@
+{"content": "还是很遵循原著。不得不说，特效确实好！", "score": 9, "nick": "放学别走打断你腿", "gender": 1}
+{"content": "我愿意给你我的心", "score": 10, "nick": "丶梦回江南", "gender": 1}
+{"content": "电影看了想睡觉，我觉得因为影院设备问题，影片在屏幕上有些部分很模糊，感觉在看标清影片。剧情太拖沓，男主死的好，女主挺漂亮除了牙感觉有点突。电影院眼镜还要钱垃圾。", "score": 1, "nick": "s巴布", "gender": 0}
+{"content": "很好看。。。。。。", "score": 10, "nick": "兔子君。", "gender": 2}
+{"content": "剧情太棒了  其实我还以为内个男的会活下去呢    不过没关系(=^▽^=)   还是好看的   不愧是小说改编   女主也好美", "score": 10, "nick": "茶叶梗TC", "gender": 2}
+{"content": "剧情，特效都很好，希望有2", "score": 10, "nick": "羊驼君", "gender": 1}
+{"content": "很好看，不错的效果，还有第二部吧", "score": 10, "nick": "JFM701726587", "gender": 1}
+{"content": "怎么说呢 超级期待下一部 太好看了 还没过瘾", "score": 10, "nick": "gonesummer", "gender": 2}
+{"content": "我觉得一般般吧，特效，打斗场面很棒，就是剧情线，人物设定有点傻，可能考虑到家长也可以带孩子去看", "score": 5, "nick": "隔壁一只狗", "gender": 0}
+{"content": "期待续集，阿丽塔加油！", "score": 10, "nick": "神崎榴奈", "gender": 2}
+{"content": "女主报表很好实力报表，特好看", "score": 10, "nick": "oh~", "gender": 1}
+{"content": "炒鸡喜欢，墙裂推荐\n特效，细节都做的无可挑剔，算是近期看的电影中最喜欢的", "score": 10, "nick": "M鹿M766", "gender": 2}
+{"content": "精彩，全程打斗激烈，影片干净利落一点都不拖沓，让你全程都在聚精会神的看。不愧是阿凡达导演卡梅隆的又一力作，很赞！唯一遗憾的就是，结束的太快，没看够就完了，好吧，等2了！！", "score": 10, "nick": "A海洋", "gender": 1}
+{"content": "还可以，没看懂", "score": 7, "nick": "冯金强654", "gender": 1}
+{"content": "影片挺精彩的，卡神果然不同凡响！", "score": 10, "nick": "ZC", "gender": 0}
+{"content": "影片太炫酷了， 影院3D效果很不错，", "score": 10, "nick": "6324meng", "gender": 0}
+{"content": "故事没补充完整，期待继集！", "score": 9, "nick": "北岸的龙猫", "gender": 1}
+{"content": "爽，真的看爽了，从头到尾！期待下部作品，近两年看到的这类科幻作品最佳影片，没有之一，绝不接受反驳！欧耶欧耶！阿丽塔，我爱你🤘！", "score": 10, "nick": "头号风火", "gender": 1}
+{"content": "就机球赛那一段有点看头", "score": 6, "nick": "陈辞385", "gender": 1}
+{"content": "真的超级好看，女主真的个性十足，不怕惹麻烦，我真的被⭕粉了诶，故事情节超级棒，视觉效果等都超级到位的，真的真的好看😱😱😱👍👍❤❤爱了爱了", "score": 10, "nick": "hali..", "gender": 0}
+{"content": "就是绚丽的科技还成", "score": 5, "nick": "ntr342222817", "gender": 2}
+{"content": "刺激，非常的刺激", "score": 9, "nick": "Sparkl", "gender": 1}
+{"content": "赛博朋克爱好者福音，可惜电影时长太短，没办法拍完原著", "score": 9, "nick": "Lance", "gender": 1}
+{"content": "暴爽的动作和全程吸引人的一双大眼睛，华丽的场景加上感人的感情处理，末尾一滴眼泪用刀刃切成两半的神来之笔，让人感觉2个多小时一会就过去了", "score": 10, "nick": "feynman费曼", "gender": 1}
+{"content": "个人感觉挺不错，期待2⃣️！", "score": 9, "nick": "紫龍", "gender": 1}
+{"content": "电影挺好看的，特效做得很好。", "score": 9, "nick": "蕭", "gender": 0}
+{"content": "好看，就是有点吓人哈哈哈", "score": 10, "nick": "sHH752713371", "gender": 0}
+{"content": "好看，值得，推荐大家去看一下，真的。不过就是片尾个人不喜欢，因为boss都没干掉，男主死了，女主成为了冠军。。。。这剧情有点。。希望第二部剧情更精彩", "score": 10, "nick": "MoXiaoMo2131709", "gender": 1}
+{"content": "一场电影睡了两三觉", "score": 6, "nick": "都兰那仁", "gender": 1}
+{"content": "期待第二部。。。。", "score": 10, "nick": "EuP441508165", "gender": 2}
+{"content": "特效还不错，但是全文不知道在讲什么，蛇头蛇尾，这个分是打给特效的", "score": 4, "nick": "辗转在谁的年华", "gender": 0}
+{"content": "剧情挖了一个大坑但是最后什么都没有交代就结束了。人物性格犹豫，很多时候当断不断，看着很别扭。看之前给了挺高期待的，虽然听说美国本土票房不行，但是依然相信至少看的开心，看完了发现是我期望太高了。\n不是单纯特效堆叠就足够的，能不能把故事给讲明白了？", "score": 5, "nick": "西西在飞", "gender": 1}
+{"content": "Alitalia无敌酷啊，战斗场面热血沸腾[爱你][爱你][爱你]流线型身体太灵活了吧！愤怒的女性最美！\n希望雨果就那么死掉，不要复活之类的。 ​​​", "score": 10, "nick": "园子君哒哒", "gender": 2}
+{"content": "特效不错，有点暴力", "score": 9, "nick": "Polaris_Lorna", "gender": 0}
+{"content": "不推荐来沃美影城，电影开场很久了也没有关灯。结束很久也不开灯，非常的不专业。", "score": 8, "nick": "老坛白酒", "gender": 1}
+{"content": "震撼，精彩！", "score": 10, "nick": "SilverMedium", "gender": 1}
+{"content": "真的很好看。就喜欢看外国大片😁", "score": 10, "nick": "独余。", "gender": 0}
+{"content": "一般般吧题材挺好，老套路剧情，这一部完全是为后面几部做铺垫，后面几部应该可以的。", "score": 8, "nick": "You broke my heart", "gender": 1}
+{"content": "并不是看系列观众（冲新电影评分高看的）。外国电影特效还是可以的。剧情，简单的傻6式爱情故事。对于普通观众等以后免费的就好了，不必去电影院追。", "score": 6, "nick": "LHAngBinG_", "gender": 1}
+{"content": "一般般一般般", "score": 6, "nick": "锦城鲤", "gender": 1}
+{"content": "这剧情人物，也只剩下特效了，好多跪舔狗", "score": 6, "nick": "东马611", "gender": 1}
+{"content": "还有第二部，一般吧，后期男主不讨喜", "score": 6, "nick": "今天是周几？", "gender": 2}
+{"content": "特效超一流 但是剧情真的很沙雕", "score": 9, "nick": "Jyxxxx", "gender": 1}
+{"content": "整体视觉效果很棒。", "score": 9, "nick": "荔城枇杷", "gender": 0}
+{"content": "节后的第一部好莱坞大片，超赞的特效。一个温暖又不失正义感的女战士，一个不完整的结局，让人好期待卡梅隆给阿丽塔一个惩恶扬善、好人有好报的结局。", "score": 9, "nick": "青青", "gender": 2}
+{"content": "好看，就是啊丽塔的眼睛大的让人害怕", "score": 10, "nick": "年兮一年", "gender": 1}
+{"content": "没有想象的好。", "score": 1, "nick": "EoR625066600", "gender": 1}
+{"content": "故事情节和特效都满分💯 ", "score": 10, "nick": "🇫🇷Lian🇫🇷", "gender": 2}
+{"content": "电影好好看，电影院冷的全程抱紧自己，而且晚放了十分钟真好。", "score": 10, "nick": "虎子1y1s", "gender": 1}
+{"content": "特效和打斗超赞，只是某些情节处理略显模糊，男主形象不够鲜明，总体不错！", "score": 9, "nick": "猎杀丘比特", "gender": 0}
+{"content": "好看😊超好看", "score": 10, "nick": "狗蛋儿呐。", "gender": 2}
+{"content": "挺好看，，，，，，，，", "score": 10, "nick": "sun筱薇", "gender": 2}
+{"content": "Luv little Angel Alita!! Luv angel Dua Lipa!!!!!!💟", "score": 10, "nick": "lollipops🍭", "gender": 2}
+{"content": "不知道看了什么", "score": 1, "nick": "paB692351203", "gender": 0}
+{"content": "特效不错，就是剧情有点水", "score": 9, "nick": "陌上人如玉", "gender": 1}
+{"content": "下单时没有提示需要自己另外购买3D眼镜，别的电影院都是由电影院免费配戴，看完电影后回收。", "score": 5, "nick": "风一样的凤凰", "gender": 0}
+{"content": "画面震撼，打斗没有预期的多。但是很精彩，故事情节拉的有些长。期待第二部。", "score": 8, "nick": "꯭怪꯭獸꯭꯭ི༄꯭", "gender": 1}
+{"content": "虎头蛇尾，戛然而止，没看出来个什么名堂！", "score": 8, "nick": "Pxn588683525", "gender": 0}
+{"content": "给九分特效，剧情内容都很喜欢，而且挺好看的，唯一的缺点就是，时间太短，没看够，等阿丽塔战斗结束的时候，我以为他要上去打架，结果电影院告诉我完了，我一脸懵逼的走出影院……脑子里都是？？？？？我看了些什么？你说不好看吧，她挺好看的，你说好看吧？嗯，应该是我没看够。", "score": 9, "nick": "LeDoux～LOHAS芳疗工作室", "gender": 0}
+{"content": "够酷够爽，太棒了！🌟🌟🌟", "score": 10, "nick": "UWV598263034", "gender": 0}
+{"content": "不错啊！，。，", "score": 10, "nick": "张小翔1992", "gender": 1}
+{"content": "特效非常完美，细节捕捉与动态都很好，剧情开始有一点硬伤，但是无伤大雅，看过漫画，期待之后的剧情。", "score": 10, "nick": "dJz767300666", "gender": 0}
+{"content": "完美，超级棒。", "score": 10, "nick": "错位的米", "gender": 0}
+{"content": "期待他会不会出前传", "score": 10, "nick": "Teddy (泰迪)", "gender": 1}
+{"content": "超炫酷，不剧透，下一部肯定能赢比赛去上面的世界，我觉得在上面的世界打仗会更炫酷。", "score": 10, "nick": "yousir2018", "gender": 1}
+{"content": "特效太棒了，这是逼着我看第二部吗？", "score": 9, "nick": "ChenYu59315", "gender": 2}
+{"content": "非常值得看的一部电影", "score": 10, "nick": "梦里魇外谭维维", "gender": 0}
+{"content": "太好看了呜呜呜", "score": 10, "nick": "Nienyo", "gender": 0}
+{"content": "女主的大眼睛有点出戏。剧情像头号玩家和饥饿游戏的综合版。", "score": 9, "nick": "贱胆禽心", "gender": 1}
+{"content": "阿丽塔，故事老套，特效可以", "score": 6, "nick": "海阔天空", "gender": 1}
+{"content": "好看好看好看", "score": 10, "nick": "青山照月", "gender": 2}
+{"content": "会有下部的，期待。", "score": 9, "nick": "逍遥客ing", "gender": 1}
+{"content": "感觉非常好看", "score": 10, "nick": "just_socoool", "gender": 1}
+{"content": "特效无话可说   剧情是真的有点狗血  能猜到大概", "score": 6, "nick": "先生", "gender": 1}
+{"content": "这部电影本来是由卡梅隆导演的，因为卡梅隆要拍阿凡达系列，没有时间，就让另一个导演拍了，但肯定是大作，不过不知道又被国内这该死的评级删减了多少！不过效果真好，打斗不像之前的美式硬派作风，更多像中国的功夫，这一部应该是介绍过多，第二部应该会更精彩，期待！不过不要像环太平洋的第二部坑人就行。", "score": 10, "nick": "安", "gender": 1}
+{"content": "昨天和朋友一起看的，感觉还不错", "score": 8, "nick": "MPh六六", "gender": 2}
+{"content": "挺好看的喜欢女主角", "score": 9, "nick": "Fzd180119629", "gender": 2}
+{"content": "还不错还行吧", "score": 10, "nick": "CNr255026550", "gender": 0}
+{"content": "电影超级好看，真刺激！", "score": 10, "nick": "买黄瓜的提莫", "gender": 0}
+{"content": "期待第二部出来", "score": 10, "nick": "最长情o", "gender": 0}
+{"content": "老实说，特效很赞，战斗动作也很棒。但是这喂屎的剧情。。。真不知道怎么吐槽，手机打字太不方便，不然就发长文说问题了。最后，没人觉得女主和魔戒的咕噜一样吗？", "score": 5, "nick": "航海日志", "gender": 1}
+{"content": "先说缺点:\n1.绝对原著粉丝向的作品\n\n2.对路人观众不太友好（粉丝:看不懂?去看原著啊）\n\n3.感情路线走向难以让人感同身受\n\n优点:\n1.让人不得不服的面部捕捉特效技术，女主面部微表情细节相当到位。\n\n2.女主和真人的同镜头演出毫无（几乎）违和感。\n\n3.部分镜头过审让人略微惊讶（或是惊喜）。\n\n剧情:6\n\n特效:+1", "score": 7, "nick": "DevilmcZ", "gender": 1}
+{"content": "序章，不过很好看。去晚了错过了开头15分钟。", "score": 10, "nick": "乔兜兜", "gender": 2}
+{"content": "感觉没看完。。。正兴头上呢，没了", "score": 9, "nick": "only奔小康", "gender": 1}
+{"content": "不错不错不错不错，就是部分剧情老套", "score": 8, "nick": "橙子好几箩筐", "gender": 0}
+{"content": "1分给特效，不是水军不接受反驳", "score": 1, "nick": "🍭小李", "gender": 0}
+{"content": "爽呆了好好好", "score": 10, "nick": "xuqi995273838", "gender": 0}
+{"content": "确实不错，期待续集！完美", "score": 10, "nick": "pipi8864774", "gender": 0}
+{"content": "特效好看，故事简单", "score": 8, "nick": "Argentina139", "gender": 0}
+{"content": "伏笔较多，高潮比较少，但是阿里塔很帅啊。", "score": 9, "nick": "大眼瞪小眼der", "gender": 0}
+{"content": "故事情节不错，场景打斗精衫。", "score": 10, "nick": "海子", "gender": 1}
+{"content": "还不错哈哈哈", "score": 10, "nick": "Leo佳J", "gender": 2}
+{"content": "机器人拍的太逼真了，拍出人类的情感！", "score": 8, "nick": "路飞儿999", "gender": 2}
+{"content": "很好非常不错", "score": 10, "nick": "张小虫", "gender": 1}
+{"content": "打斗挺精彩的！", "score": 9, "nick": "浪思", "gender": 0}
+{"content": "好看，就是故事没讲完，请听下回分解🌝", "score": 10, "nick": "杨二懒0723", "gender": 2}
+{"content": "真的超级棒，力推", "score": 10, "nick": "Mr.聪明的懒先生", "gender": 0}
+{"content": "非常暴力，情节一般，不适合18岁以下的未成年观看的特别血腥，暴力，没有结局", "score": 7, "nick": "糖棠糖棠", "gender": 0}
+{"content": "很棒了期待续集", "score": 10, "nick": "想吃糖的云朵儿", "gender": 0}
+{"content": "很好看 期待下一部", "score": 10, "nick": "怪我不温暖", "gender": 0}
+{"content": "一般般。～～～～～", "score": 8, "nick": "Draco", "gender": 1}
+{"content": "很不错的电影", "score": 10, "nick": "PVN497830277", "gender": 0}
+{"content": "Robert Anthony Rodriguez\n知道这个名字的人，你不会错过这个电影的。\n可能是因为费用过高吧，Robert的才能不能过度发挥。\n可能会令个别fans失望。\n尽管如此，还是值得一看的。", "score": 8, "nick": "STu762218746Y", "gender": 0}
+{"content": "赞，热血少女", "score": 10, "nick": "柠萌小公举", "gender": 1}
+{"content": "超级好看！！！强推！", "score": 10, "nick": "ycy416", "gender": 0}
+{"content": "非常好看，特效完美，故事情节也好，肯定有第二部！", "score": 10, "nick": "yly玉润", "gender": 0}
+{"content": "看完了剧情没啥感觉，特效满分吧", "score": 10, "nick": "世俗哥哥", "gender": 1}
+{"content": "画面可以，特级满分，情节一般，虎头蛇尾，结束的莫名其妙！！！故事完整性太差！", "score": 4, "nick": "e418619288", "gender": 1}
+{"content": "好，比流氓地球好", "score": 9, "nick": "裴迪", "gender": 0}
+{"content": "好\n简直完美，期待2", "score": 10, "nick": "陈华", "gender": 2}
+{"content": "还可以！期待下一部", "score": 9, "nick": "hry674009134", "gender": 0}
+{"content": "阿丽塔太美了，打斗场面也燃爆，超美超能打", "score": 10, "nick": "楠楠就是木木妈", "gender": 2}
+{"content": "戏还不错，就是结局太烂了，悬念太大，留白太多，其他特效什么的都可以", "score": 8, "nick": "faith", "gender": 1}
+{"content": "特别好看，棒极了", "score": 10, "nick": "✨🌙", "gender": 2}
+{"content": "人物很美，剧情很棒，视觉效果也很刺激！", "score": 10, "nick": "孝俊", "gender": 1}
+{"content": "特效非常好，但是剧情一般般有点突兀，如果看过原作就还好，可能会出续集，比较期待", "score": 7, "nick": "黎", "gender": 1}
+{"content": "眼睛是真大！眼睛是真大！", "score": 9, "nick": "love鑫森淼焱垚", "gender": 0}
+{"content": "特效满分，也不觉得这个剧情有他们说的那么糟糕，只是感觉是要排第二部的吧.", "score": 9, "nick": "Fritz280", "gender": 0}
+{"content": "不是客观的个人觉得就针对这个影片来说甩流浪地球十条街。", "score": 10, "nick": "晴海。", "gender": 0}
+{"content": "先不管是不是烂尾，也不知道有没有续集，但是部分片段让我想起一句话，真的爱你，命给你。这里有真的爱你，心给你。哈哈哈哈", "score": 9, "nick": "冷傲紫涩枫", "gender": 1}
+{"content": "很棒👍👍", "score": 10, "nick": "遇见了你－", "gender": 1}
+{"content": "作为没看过改编原著的人来说。\n战斗天使根本不算完整的电影好嘛～\n全程看特效了", "score": 1, "nick": "李兜兜^-^", "gender": 1}
+{"content": "还不错，真的不错", "score": 8, "nick": "winchenping", "gender": 1}
+{"content": "没有流浪地球好，没演完还会有下一部", "score": 5, "nick": "🍪麻麻的小吃货🐒", "gender": 0}
+{"content": "这是我看过视觉剧情上爽到爆炸的电影，差评的都是些影视挑刺点评家吧？", "score": 10, "nick": "起个名字灬真难", "gender": 0}
+{"content": "特效很棒。。。就是剧情略像攻壳机动队😂【好吧讲道理应该铳梦比shell早？但是改的总觉得整体结构挺像】", "score": 10, "nick": "EuphyH", "gender": 0}
+{"content": "必看，燃，正义，热血，激情。", "score": 10, "nick": "天才鲨鱼", "gender": 1}
+{"content": "超棒的爆米花电影！", "score": 10, "nick": "shakspizza", "gender": 2}
+{"content": "开始女生都想要雨果这样的男朋友，后来男生都想要阿丽塔这样的女朋友，后来他们成为了自己，动作画面完美想二刷\n", "score": 10, "nick": "Lynn", "gender": 2}
+{"content": "结局太急促，内容很好", "score": 10, "nick": "AcCompany_保留", "gender": 1}
+{"content": "特效场面做的不错，剧情有点单薄", "score": 8, "nick": "尘封的旋律", "gender": 1}
+{"content": "This my angel \nThe battle angel\n无可挑剔，我是爱上阿丽塔了", "score": 10, "nick": "Princ~e~", "gender": 0}
+{"content": "特效不错，没有了！", "score": 8, "nick": "vermix", "gender": 1}
+{"content": "影片有深度寓意，涉及残忍画面也体现社会的残酷阶层之间的！", "score": 9, "nick": "君子兰", "gender": 0}
+{"content": "参加/第一观影团/看阿丽塔，好看，打斗场面太刺激了。还等着反杀结局了，估计还有第二部第三部吧。", "score": 10, "nick": "小芒果和青柠", "gender": 0}
+{"content": "不错，还是蛮好看的，就是只是上集，不知道下面还会出几集，感觉就是一个坑。", "score": 8, "nick": "沧海V一笑", "gender": 1}
+{"content": "好看，期待它出第二部！", "score": 10, "nick": "羊驼MX", "gender": 0}
+{"content": "特效可以给满分，结局掉坑里了，多久能爬上了呢？😤 ", "score": 9, "nick": "哟！蚊子", "gender": 0}
+{"content": "情节还是欠缺 特效是很棒！", "score": 7, "nick": "菲菲", "gender": 2}
+{"content": "一位父亲献给女儿最深沉的爱", "score": 9, "nick": "得35kd", "gender": 1}
+{"content": "特效非常好，值得一看", "score": 9, "nick": "超", "gender": 1}
+{"content": "特效很棒，故事无力吐槽，爱情故事？？？", "score": 7, "nick": "Black", "gender": 1}
+{"content": "不错不错，很好看", "score": 10, "nick": "kje533085832", "gender": 1}
+{"content": "画面特效没得说，只是结尾感觉还要拍下一集，请问下一集啥时候才能有", "score": 8, "nick": "赏影全能", "gender": 1}
+{"content": "好看………………", "score": 10, "nick": "Sinclair", "gender": 1}
+{"content": "根据日本漫画家木城雪户的小说《铳梦》改编，影片背景设定在未来26世纪，机械改造人之间的战斗，故事很紧凑，3D效果很不错，从结尾来看应该会有续集。", "score": 8, "nick": "復讐者X", "gender": 0}
+{"content": "八星吧。特效很充裕，要是用在流浪地球上就好了。特效上国外还是领先国内的。其次这是我看过的第一部打斗干净利落不啰嗦的西方英雄电影。也没有明显的反智情节。综合8分挺合适。但是估计本片在国内也会如北美一样扑街。", "score": 8, "nick": "misanyeah", "gender": 0}
+{"content": "特效不错 情节欠缺 不会二刷", "score": 7, "nick": "天天疯", "gender": 2}
+{"content": "特效我看过最好的，比较爽😊", "score": 9, "nick": "我名无有道人", "gender": 0}
+{"content": "剧情一般     画面不错", "score": 6, "nick": "另一个读书人", "gender": 1}
+{"content": "超级好看！！", "score": 10, "nick": "VFF957402929", "gender": 1}
+{"content": "特效不错顶一下", "score": 9, "nick": "赵宣子", "gender": 1}
+{"content": "打斗好看，男主角过于作死，这剧情可能为第二部做铺垫吧，不过不同文化上的融合，似乎都是失败的。假如剧情能够打分最多5分，动作很好十分；综合下来还是及格的。", "score": 8, "nick": "陈招枢", "gender": 0}
+{"content": "特效很不错……", "score": 10, "nick": "永远唯美", "gender": 1}
+{"content": "非常好看，特效完美", "score": 10, "nick": "钢铁wolf", "gender": 2}
+{"content": "吵死人了，挺好看的，细节处理到位，情节不错。", "score": 10, "nick": "迷一样的王", "gender": 0}
+{"content": "男主必死了解一下，知道最后我都还不知道主角是机器人还是人……", "score": 10, "nick": "兴来", "gender": 2}
+{"content": "场面非常漂亮，充满未来感，故事情节也不错，标准美国大片", "score": 10, "nick": "dhq_ing", "gender": 1}
+{"content": "全靠特效撑场，剧情没有可看性", "score": 5, "nick": "懒得想洺子", "gender": 2}
+{"content": "好看，期待2", "score": 10, "nick": "半藏他弟", "gender": 1}
+{"content": "感觉我又恋爱了！", "score": 10, "nick": "Zzzrrrrrrrrrr", "gender": 1}
+{"content": "剧情一般，为看特效来的。女主的卡姿兰大眼睛不错哦", "score": 9, "nick": "孙旺", "gender": 1}
+{"content": "好看，没毛病！", "score": 10, "nick": "Aka xi more", "gender": 0}
+{"content": "可以，能看，还行吧", "score": 8, "nick": "HJy542771928", "gender": 0}
+{"content": "反乌托邦，和别情节很无聊", "score": 8, "nick": "手上没有表", "gender": 1}
+{"content": "阿丽塔真是个cool girl", "score": 8, "nick": "今夕此夕", "gender": 0}
+{"content": "希望下一部别来的太晚 \n", "score": 10, "nick": "桀骜", "gender": 1}
+{"content": "特效很棒，但故事情节略显单薄，不太完整。", "score": 9, "nick": "_qqk6n1381043843", "gender": 1}
+{"content": "提前锁定年度最佳～", "score": 10, "nick": "茄子,", "gender": 0}
+{"content": "个人觉得还不错啦。", "score": 9, "nick": "xDy298203216", "gender": 0}
+{"content": "大电影内容不错，就是上古天地的大地影院效果不咋样", "score": 9, "nick": "reset心心", "gender": 2}
+{"content": "男的死了就完了😱", "score": 1, "nick": "快乐de约会", "gender": 1}
+{"content": "打斗太少，爱情戏份太多，😓 ", "score": 7, "nick": "周身贱格", "gender": 1}
+{"content": "不得不说，卡梅隆还是牛逼，这特效，这打斗，看的贼爽！！！但是剧情嘛，就有点儿那个了。典型的好莱坞一人拯救世界。看的时候我就疑问一个战士就这么牛逼，当初成群结队的这些个战士是怎么输的？还有过防御环那段，救男主的时候轻松跳过，300年前竟然是趴下用枪biubiubiu。叛逆和挑衅变成人生开挂的助动器。我看是奔着特效和打斗去的，好莱坞嘛，英雄剧情都这样。", "score": 7, "nick": "罗L23187", "gender": 1}
+{"content": "特效做的很棒，故事情节很一般。  可以为了特效去看看", "score": 6, "nick": "NWz380103227", "gender": 0}
+{"content": "热血加煽情，全程高能", "score": 10, "nick": "光和影", "gender": 1}
+{"content": "特别好看，特别感人", "score": 10, "nick": "牡丹1218", "gender": 2}
+{"content": "超好看！！！", "score": 10, "nick": "寺町", "gender": 2}
+{"content": "特效不错 剧情有点 毕竟还有第二部", "score": 8, "nick": "汉南胡", "gender": 0}
+{"content": "还不错噢可以看的", "score": 9, "nick": "anna820301", "gender": 0}
+{"content": "结局烂尾。其他都好。剧情应该在为第二部做准备", "score": 7, "nick": "小黄人", "gender": 1}
+{"content": "我小时候看了铳梦这个漫画，现在终于等到了电影，简直太棒了！", "score": 10, "nick": "PamelaSunNavina", "gender": 0}
+{"content": "外国大片很好看，主要是特效做的好！不过又没有结局，估计得等个2.3部再。有剧情，有情感，有打斗还是不错的！", "score": 9, "nick": "🥳乐乐", "gender": 2}
+{"content": "满分全给特效 细节满分", "score": 10, "nick": "a_依莎瑠璃", "gender": 2}
+{"content": "不错  节奏很快", "score": 10, "nick": "zx125789", "gender": 1}
+{"content": "很激烈的节凑，但是不觉得不好看。。", "score": 9, "nick": "宁安912", "gender": 2}
+{"content": "特效nb到炸，剧情烂的和垃圾一样，就是个漫改前传，很不错了", "score": 8, "nick": "Souvenir…………", "gender": 1}
+{"content": "满分满分满分", "score": 10, "nick": "咕德咕德", "gender": 0}
+{"content": "期待第二部～", "score": 10, "nick": "我。", "gender": 1}
+{"content": "好像一部单纯为了秀特效的电影。。。", "score": 6, "nick": "被遗忘的托亚", "gender": 0}
+{"content": "面部特效挺好，剧情一般", "score": 1, "nick": "笨熊的师傅", "gender": 1}
+{"content": "特别的好看啊", "score": 9, "nick": "马家旗NO.1", "gender": 0}
+{"content": "炒鸡好看，打斗特效超棒", "score": 10, "nick": "饕餮", "gender": 1}
+{"content": "非常不错，OK", "score": 9, "nick": "早上吃了碗面", "gender": 1}
+{"content": "很好看的一步电影   但是只描述了一般  可能会出第二部第三部", "score": 10, "nick": "ㅤ", "gender": 0}
+{"content": "恕我直言 不好看 看前三十分钟的时候  甚至气到直接拿出手机想打一分差评 也就后面两个预告片里的战斗让我打了四分。 全程狗血爱情故事中穿插点打斗的电影 为什么要吹科幻热血？而且电影结束的不明不白 真的太失望", "score": 4, "nick": "皓", "gender": 0}
+{"content": "阿丽塔帅气迷人，小姐姐勇救小哥哥！", "score": 9, "nick": "atyz123", "gender": 0}
+{"content": "好看特喜欢这个，希望第二部快点出", "score": 10, "nick": "小余宝贝儿", "gender": 2}
+{"content": "很好看！！！！！！！！", "score": 10, "nick": "cat00520", "gender": 2}
+{"content": "烂尾了呢……", "score": 8, "nick": "咸弦", "gender": 0}
+{"content": "特效很不错但是剧情硬伤呐\n不过我还是要说\n我永远喜欢阿丽塔", "score": 8, "nick": "Roh315795010", "gender": 0}
+{"content": "日本1991年动漫《铳梦》改编，剧情完全一样", "score": 7, "nick": "悸风", "gender": 0}
+{"content": "好看 期待第二部", "score": 9, "nick": "zbC497369651", "gender": 2}
+{"content": "好看2刷了。等待续集", "score": 9, "nick": "ThQ834929182", "gender": 2}
+{"content": "朋克风格，全冷兵器动作戏，看得特别爽！超级推荐。就是剧情有点说不通，人设崩塌了。", "score": 9, "nick": "norton00", "gender": 0}
+{"content": "真的太爽了，全程无尿点。", "score": 10, "nick": "zaW680713790", "gender": 1}
+{"content": "还可以 但是看过流浪地球之后就总觉得这种砍砍杀杀的科幻片不得劲儿……", "score": 7, "nick": "Yokoi", "gender": 0}
+{"content": "特效不错场面不错就是情节松散", "score": 9, "nick": "yuyun9902", "gender": 1}
+{"content": "好看，小时候看过原作，铳梦！基本没变，期待第二部", "score": 10, "nick": "Scl13648033334", "gender": 1}
+{"content": "非常完美 就是没看过瘾！", "score": 10, "nick": "vyq51328293", "gender": 1}
+{"content": "爽爽爽爽！赛博朋克爽爽爽！", "score": 10, "nick": "夕暮之后逐", "gender": 1}
+{"content": "很久没看过这么酣畅淋漓的电影了～", "score": 9, "nick": "君语和悦", "gender": 1}
+{"content": "阿丽塔和雨果的感情是真的优秀", "score": 10, "nick": "嗧", "gender": 1}
+{"content": "看得我想打架。", "score": 10, "nick": "bao_jiang2m貓貓", "gender": 1}
+{"content": "非常好看，简直是我目前最喜欢的电影！", "score": 10, "nick": "大尾巴狼3752", "gender": 2}
+{"content": "真香，好看，吹爆!", "score": 10, "nick": "Dan_Qi", "gender": 0}
+{"content": "还不错啊 除了男主太坑了之外 电影还可以 不知道为什么这么多人喷", "score": 7, "nick": "一个戏子", "gender": 1}
+{"content": "意犹未尽，机动球好帅，好羡慕里面的爱情。", "score": 10, "nick": "我叫啥也不管", "gender": 0}
+{"content": "太好看，太完美了", "score": 10, "nick": "fbz787878", "gender": 0}
+{"content": "完美，期待后续", "score": 10, "nick": "银狐54561", "gender": 0}
+{"content": "战斗情景  人物细节很不错\n剧情线一般\n感情线一塌糊涂", "score": 7, "nick": "嚯嚯嚯嚯～～", "gender": 1}
+{"content": "非常好看哦。", "score": 10, "nick": "小混混", "gender": 1}
+{"content": "帅爆了，好看好看！", "score": 10, "nick": "GUOTAORUI", "gender": 1}
+{"content": "以后也会值得回味的电影，", "score": 10, "nick": "🍃 像一棵海草🌾", "gender": 0}
+{"content": "特效完美 有第二部增添了期待", "score": 10, "nick": "电台小音箱", "gender": 0}
+{"content": "想看第二部，，，这不错", "score": 9, "nick": "杨智腾", "gender": 1}
+{"content": "剧情不太明白啊，感觉动作戏还可以", "score": 7, "nick": "进击的小强", "gender": 1}
+{"content": "男主令人一言难尽", "score": 7, "nick": "御坂白泽", "gender": 0}
+{"content": "失望，这部电影只能说是“很长的预告片”，为了后面几部电影铺垫。和流浪地球，海王，阿凡达这些对比，阿丽塔电影是失败的。很多人看了都想睡觉，反正作为资深影迷的我，感到失望，剧情基本都能猜到，没意思，差评", "score": 4, "nick": "韦提", "gender": 1}
+{"content": "电影真的好看，超喜欢这个女主角", "score": 8, "nick": "WJp274283476", "gender": 0}
+{"content": "很好值得一看", "score": 10, "nick": "wangwei8482", "gender": 0}
+{"content": "《阿丽塔—战斗天使》人在感情面前，都是忠于自己的内心，再强大的外表都会有一颗脆弱的内心，精彩的打斗场面，高科技的画面，确实是非常值得看的电影！", "score": 9, "nick": "zyzy009", "gender": 2}
+{"content": "剧情紧凑，期待卡神拍撤冷篇", "score": 10, "nick": "pljxxx", "gender": 1}
+{"content": "特效没得说，战斗场面很惊艳！但是总感觉有删减，结尾有些仓促，卡神的重点应该在下一部，或者后面好几部吧。", "score": 8, "nick": "孙什么鬼", "gender": 0}
+{"content": "我觉得还可以吧", "score": 9, "nick": "一只大个子", "gender": 1}
+{"content": "特效很棒，故事开头很好，结尾仓促，整个故事框架拉得过长，拖拉，明明是战斗片，结果变成爱情文艺片。", "score": 7, "nick": "蓝莓嘎啦", "gender": 2}
+{"content": "等待后续 还有很多东西没讲完呀", "score": 8, "nick": "缺主见患者", "gender": 0}
+{"content": "情感桥段过于突兀\n突然…就恋爱了！\n突然…就母爱爆发了！", "score": 8, "nick": "Sney", "gender": 2}
+{"content": "还可以，感觉第二部应该会好看点", "score": 7, "nick": "Carol_Z_", "gender": 2}
+{"content": "心脏那段差点看哭了，想起我女朋友，卡神永远是卡神，看不来的走开。", "score": 8, "nick": "村雨", "gender": 0}
+{"content": "特效好多，还可以", "score": 9, "nick": "M～", "gender": 2}
+{"content": "炒鸡好看！炒鸡棒！", "score": 10, "nick": "满潮永澄", "gender": 0}
+{"content": "特效优秀，剧情尴尬，冲着卡神，打个八分！", "score": 8, "nick": "yauwaikin", "gender": 1}
+{"content": "值得好几刷的电影", "score": 10, "nick": "郭大浪浪", "gender": 0}
+{"content": "这才是对得住观众的影片，票价比那啥球还便宜", "score": 10, "nick": "陈国权", "gender": 1}
+{"content": "我要看续集，", "score": 9, "nick": "NUMB", "gender": 1}
+{"content": "比流浪地球好看多了……不愧是卡梅隆的电影………全程给10分。", "score": 10, "nick": "毅", "gender": 1}
+{"content": "剧情紧凑，节奏快，打架很是酣畅淋漓，让人意犹未尽，最后阿丽塔举刀示威我还以为要大干一场，结果影片结束，显然还要花钱来看后续😂推荐一下", "score": 9, "nick": "旺得疯", "gender": 0}
+{"content": "看过的最好的科幻片了，剧情非常好。期待第二部。", "score": 10, "nick": "Pbrose", "gender": 1}
+{"content": "期待第二部，太好看了", "score": 10, "nick": "啊波s", "gender": 1}
+{"content": "**666 的确不错 期待第二部", "score": 9, "nick": "世人愛捕風", "gender": 1}
+{"content": "特效打斗没的说爽是爽，但是相对原作深度低了不少过分刻画爱情了", "score": 8, "nick": "6001", "gender": 0}
+{"content": "估计要做成三部曲了，看几年。", "score": 9, "nick": "四季", "gender": 0}
+{"content": "perfect", "score": 10, "nick": "无人不晓无人不知", "gender": 0}
+{"content": "一般般！也就看特效了", "score": 5, "nick": "海萍", "gender": 2}
+{"content": "电影太震撼了，打斗的场面也好看，情节也很感人。赞", "score": 10, "nick": "其实我还好353", "gender": 1}
+{"content": "一般，开局太大，结尾催促。", "score": 8, "nick": "东皇夜帝", "gender": 0}
+{"content": "阿丽塔好可爱、很生动、", "score": 8, "nick": "nXJ836197373", "gender": 1}
+{"content": "特别棒！看的很爽但是最后结局太吊人胃口了！期待下一部", "score": 9, "nick": "若灬鸢", "gender": 1}
+{"content": "特效非常好，让我震撼到科技的强大！", "score": 10, "nick": "空城只有旧梦在", "gender": 1}
+{"content": "看的挺爽的.", "score": 10, "nick": "只团吃的东西u", "gender": 2}
+{"content": "画面特效非常好看", "score": 10, "nick": "司马清", "gender": 0}
+{"content": "酷，帅，炫，效果确实不错，情节有点老套，不过很棒", "score": 10, "nick": "jack", "gender": 0}
+{"content": "好看，精彩，赞一个", "score": 10, "nick": "元元涵涵", "gender": 2}
+{"content": "感恩完美，爱能改变一切", "score": 10, "nick": "富足喜悦的彦吉同学", "gender": 0}
+{"content": "看不懂。。。", "score": 1, "nick": "陌沫很可爱", "gender": 2}
+{"content": "期待第二部！", "score": 8, "nick": "来来", "gender": 2}
+{"content": "剧情着实一般。特效不错。", "score": 7, "nick": "Darlingling.", "gender": 0}
+{"content": "各种细节特效都炒鸡赞，就是看不爽，非常期待下一部", "score": 10, "nick": "你的秀发拂过我", "gender": 0}
+{"content": "整体感觉还不错，但是感觉看的不爽，感觉换了一个躯体没卵用，就只能冒个蓝火，剧情一般般", "score": 8, "nick": "MuG230578866", "gender": 1}
+{"content": "影片不错，期待有第二部", "score": 10, "nick": "Hui18362023656", "gender": 2}
+{"content": "期待的编剧期待的作品，满分推荐", "score": 10, "nick": "守护", "gender": 1}
+{"content": "没有流浪地球好看", "score": 1, "nick": "陈先生🔥宝娜斯🔥光腿神器", "gender": 0}
+{"content": "特效炸裂，剧情完美", "score": 10, "nick": "军聪", "gender": 0}
+{"content": "感覺是非常的有未來感，也許導演用一種「無師自通」的方法來描述艾莉塔的技能是為了不斷的按時她的歸屬地。期待續集，不過個人感覺卡梅隆執導這部電影也是可以的，相信他對這類型的電影挺有天賦，加上和朋友的合作，這部電影可以說是一部巨作了。（這部電影原本是他的項目，不過後來他太忙就把他給了朋友，自己退居監製）", "score": 9, "nick": "xoxo", "gender": 1}
+{"content": "帅的一匹，好好看", "score": 10, "nick": "一swim咯JRE哦", "gender": 0}
+{"content": "剧情老套。。", "score": 7, "nick": "傷了那秋季的頭丿", "gender": 1}
+{"content": "还不错，期待续集。全程最窝火后面的人每隔几分钟踢椅子，提醒三次都不收敛，最后只能使劲往后一览，打到他脚了才停，害我电影看得郁闷！", "score": 9, "nick": "Fairy_凡", "gender": 0}
+{"content": "挺好看的，比较完美。", "score": 10, "nick": "平凡", "gender": 1}
+{"content": "非常不错的一部电影，留下了很多悬念值得你去深思，期待第二部上映。", "score": 10, "nick": "请叫我.红领巾", "gender": 0}
+{"content": "太精彩了，值得看，简直就是完美，续集绝对要看，值得刷很多遍的，吹爆这部电影，2019最佳", "score": 10, "nick": "Monster.Em", "gender": 0}
+{"content": "挺好看的 阿丽塔很帅", "score": 9, "nick": "福捞沃", "gender": 0}
+{"content": "很好看，把漫威DC比作麻辣烫的话，这个就是有小桥流水茉莉花的仙境", "score": 10, "nick": "似水流年7859", "gender": 1}
+{"content": "期待第二部！超赞！", "score": 10, "nick": "小麦", "gender": 2}
+{"content": "期待第二部 好看 女主好看\n", "score": 10, "nick": "陈忆莲🍊", "gender": 1}
+{"content": "眼花缭乱的特效，毫无章法的剧情", "score": 10, "nick": "Sfh729716732", "gender": 1}
+{"content": "very good！", "score": 10, "nick": "必毕币", "gender": 2}
+{"content": "剧情很乱，有很多地方转换的莫名其妙。不过看特效的话还是不错的。", "score": 8, "nick": "Sagras987", "gender": 1}
+{"content": "7分不是不好看。\n这么说吧，去过县城的农村人看县城跟市区的人看县城。\n有些评论吹的太离谱了。", "score": 7, "nick": "黑色大白", "gender": 1}
+{"content": "超级无敌好看", "score": 10, "nick": "灵魂123466", "gender": 1}
+{"content": "好看是好看，但是剧情转折有点硬，渲染看得出真的下功夫", "score": 8, "nick": "鹿人店四老板", "gender": 0}
+{"content": "剧情衔接没毛病 女主太漂亮了 武术的动作很美 结局有人说是烂尾 我觉得只是铺垫而已 因为肯定有下一步的 喜欢还会再购票看下一部的", "score": 10, "nick": "CKz69965576", "gender": 1}
+{"content": "战斗拳拳到肉，画面异常细致！好片！推荐！", "score": 9, "nick": "虎皮猫大人", "gender": 1}
+{"content": "很好看，特效满分，世界观宏大，期待下集", "score": 10, "nick": "独步寒枫", "gender": 1}
+{"content": "卡神还是很great，特效可以，就是前半段人物对话和情节好诡异，不连贯。。减一分", "score": 9, "nick": "晴朗", "gender": 0}
+{"content": "嗯 不错 不错  老早之前就关注了  看完后真给力 还想在看一遍 不过…………还有第二部  不能在等十年吧 哈哈", "score": 10, "nick": "OUT小屁孩", "gender": 1}
+{"content": "她很喜欢看～", "score": 10, "nick": "JJJJ", "gender": 0}
+{"content": "这才是科幻大片！", "score": 10, "nick": "王强.Dave", "gender": 0}
+{"content": "噜噜噜最后出口我要退货不", "score": 10, "nick": "sailwater", "gender": 0}
+{"content": "全程高能无尿点  超喜欢", "score": 10, "nick": "铭灵啊", "gender": 0}
+{"content": "不好看，为做而做，强行编剧情无头无尾，烂片", "score": 2, "nick": "观予子", "gender": 1}
+{"content": "其实我想打一星。。看得见但是摸不着吃不到又有什么意思😭宅男的悲哀～", "score": 9, "nick": "小勺子铁勺子", "gender": 0}
+{"content": "完美，女主好看", "score": 10, "nick": "麦克白呢", "gender": 0}
+{"content": "非常好，战斗场面很精彩", "score": 10, "nick": "妞缇", "gender": 2}
+{"content": "完美的画面，很好", "score": 10, "nick": "阿婀婀", "gender": 2}
+{"content": "不错，二刷，希望有第二部，看过原著，大场面还在后面的故事里，第一部已经有很多伏笔了", "score": 10, "nick": "NG958818200", "gender": 0}
+{"content": "怎么说呢，挺好看的，但是无结尾，很糟心😑😑😑", "score": 10, "nick": "Carina0829", "gender": 2}
+{"content": "很好看，特效杠杠的", "score": 8, "nick": "Xvg363160646", "gender": 0}
+{"content": "超级爽！意犹未尽，看到最后Alita举着剑，以为她要开始打反派了，结果就完了，期待第二部！", "score": 10, "nick": "Zero零", "gender": 1}
+{"content": "还可以、值得一看", "score": 9, "nick": "子非鱼", "gender": 1}
+{"content": "好看，女主大眼睛!", "score": 10, "nick": "Boboy", "gender": 0}
+{"content": "太厉害了，吹爆阿丽塔。特效无敌，期待第二部出来哟！", "score": 10, "nick": "在路上_2018", "gender": 1}
+{"content": "特效满分，剧情无尿点", "score": 10, "nick": "AmenT_T", "gender": 1}
+{"content": "大眼萌妹子…………战斗力爆表。期待第二部。比变形金刚好看，比钢铁侠更厉害👍，除了不会像钢铁侠一样会飞。", "score": 10, "nick": "酸伈柠檬", "gender": 0}
+{"content": "剧情中规中矩，好看", "score": 10, "nick": "郭靖", "gender": 0}
+{"content": "超级酷，赞棒\n\n26世纪，地球变得好丑，工业化时代\n\n天坠之战之后，只剩下撒冷\n阿丽塔是在废铁站里捡到，只剩下头\n灵魂意识保持完整，依德医生把她的头装在他死去的女儿身上，百夫长，雨果，机动球，拆解改造人\n\n你说人类会爱上改造人们嘛?\n依德说你爱上人类了吗\n真爱无敌\n\n雨果给力的回答\n你是我见过所有人里面，\n最有人性的一个人\n\n爱情的厉害是强大的\n\n99号也就是阿丽塔\n\n她是狂战士，\n天生为战斗而生\n猎金勇士都打不过她\n她是火联技术的\n\n医生修不好\n里面有一句话很经典\n不要无缘无故为谁付出\n不管那个人多么值得或者善良\n\n要相信自己\n不要轻易相信别人\n\n很酷\n\n我想看朝华夕拾\n哈哈哈哈哈哈\n\n\n\n", "score": 10, "nick": "sunny柒清", "gender": 2}
+{"content": "之前在B看了很多影评都是中等评价，都说特效很好，剧情一般，自己看过后觉得没有那么差，特效是真的好，在看的过程中也没有发现明显的槽点和能让人突然察觉的漏洞，很流畅就看完了", "score": 7, "nick": "清醉书轩", "gender": 0}
+{"content": "好看，待续集", "score": 9, "nick": "Egr177198922", "gender": 2}
+{"content": "超级好看，特别喜欢看阿丽塔打架的时候，太帅了，期待第二部", "score": 10, "nick": "过3044", "gender": 1}
+{"content": "#阿丽塔：战斗天使#  #Alita:battle angel#\n1、华丽的打斗，震撼的场面，充满金属味的科幻元素。一部关于机械改造人的科幻大片，一段不离不弃互相支持的美丽动人爱情故事。\n2、这是一部还没结局的电影，不喜欢没结局的人可以略过。\n3、科幻片，还是要看IMAX才能真正感受到身临其境般的视觉盛宴。\n4、看电影时，觉得还是不要吃东西，会令人分心，但喝点东西也是OK的。\n  P.S. 周末愉快～", "score": 9, "nick": "一棵绿树", "gender": 1}
+{"content": "还不错，期待下一部", "score": 8, "nick": "薛定谔的长颈鹿", "gender": 1}
+{"content": "大眼睛，大眼睛，大眼睛", "score": 10, "nick": "丶98560", "gender": 1}
+{"content": "故事情节简单", "score": 2, "nick": "张桂平", "gender": 1}
+{"content": "心脏那一段着实？？？？？？？到我了", "score": 4, "nick": "Healer_zy", "gender": 2}
+{"content": "非常震撼，很期待下一部作品", "score": 10, "nick": "Liam_01", "gender": 0}
+{"content": "看微博有的剧情有点单薄，但是特效做的很棒，表示赞同。全程喜欢阿丽塔的打斗", "score": 8, "nick": "喜乐平安", "gender": 2}
+{"content": "效果不错！！场面很震撼！！值得一看！！！", "score": 8, "nick": "dadalinlin6", "gender": 1}
+{"content": "特效很好 剧情也好看", "score": 10, "nick": "A_zimat", "gender": 1}
+{"content": "谈恋爱的男女不要去看，克男盆友", "score": 4, "nick": "Sdo768172584", "gender": 0}
+{"content": "被这个女孩子感动了，在她的身上感受到了满满的正能量！可以自信、坚强，在遇到所爱之人时，瞬间呆萌(⊙﹏⊙)后来男友的去世赚了不少眼泪。阿丽塔也因为这样更坚定了去撒冷的路！", "score": 10, "nick": "GUx40318845", "gender": 0}
+{"content": "满分，确实好看啊", "score": 10, "nick": "Ken", "gender": 1}
+{"content": "觉得非常棒！", "score": 9, "nick": "偶得五", "gender": 1}
+{"content": "特技一流，故事很棒 ，新技术的使用让人耳目一新!", "score": 9, "nick": "johnwestyy", "gender": 1}
+{"content": "电影题材很新鲜，内容丰富，精彩，值得一看", "score": 10, "nick": "吉3835", "gender": 1}
+{"content": "没有达到预期，没头没尾。", "score": 6, "nick": "小佳", "gender": 1}
+{"content": "特效不错，但是剧情真的是不好……理解为什么在国外口碑扑街了", "score": 5, "nick": "降龙罗宾汉1992", "gender": 1}
+{"content": "表明立场 流浪地球3星 ", "score": 10, "nick": "Agnes", "gender": 0}
+{"content": "影片很好看，很喜欢阿丽塔。", "score": 10, "nick": "lNx261492459", "gender": 0}
+{"content": "相当不错很喜欢", "score": 10, "nick": "喻大真伟大", "gender": 2}
+{"content": "什么都好，除了没结局", "score": 9, "nick": "渚曦月", "gender": 0}
+{"content": "结局不太完美 可能要出第二部吧", "score": 8, "nick": "余辰浩", "gender": 0}
+{"content": "特效打斗太帅了\n燃得我想刷10遍", "score": 10, "nick": "陈扑扑xx", "gender": 0}
+{"content": "人心向善，为公平而战，不像流球里面，没有特权，你就是那提前死掉的几十个亿分之一", "score": 10, "nick": "ci97521", "gender": 1}
+{"content": "一部科幻情感片，从头到尾都很平淡，一点点高潮的片段都没有。看的4D的，不知道是不是因为屏幕小的问题，特效感觉很一般。", "score": 5, "nick": "向前走～向前看", "gender": 0}
+{"content": "非常好看，期待下一部", "score": 10, "nick": "NDc29145344", "gender": 1}
+{"content": "不愧是卡神，强推", "score": 10, "nick": "Fiw768069243", "gender": 2}
+{"content": "不错，就是看的过瘾啊", "score": 8, "nick": "k36822995", "gender": 0}
+{"content": "剧情有些地方莫名其妙，总体没什么问题，就奔着战斗场面去", "score": 9, "nick": "Nekko", "gender": 0}
+{"content": "很好，非常好。", "score": 10, "nick": "辰雨jones", "gender": 1}
+{"content": "生活在底层的人梦想就是想去到上层，殊不知华丽纷呈的上层唯独没有底层人之间的爱情亲情友情，有的只是为争夺利益之间的互相厮杀。 剧情推动层层递进，到最后阿丽塔爱的人死去，达到高潮，回味无穷。故事背景也在互相对话中慢慢展开，特效不用说。       就是所在的影院厅播放声音太大，有点震耳朵。。", "score": 9, "nick": "心之所向 素履以往", "gender": 1}
+{"content": "看评论有说好的 有说坏的 亲自看了一下...九分绝对值得 剧情绝对没有评论说的那些老套 很紧凑 非常值得一看", "score": 10, "nick": "齐天大圣.颜", "gender": 0}
+{"content": "非常好看，要是春节期间能安排上映，那票房能超过100亿，希望以后能公平竞争，让国产片票房水分少点", "score": 10, "nick": "清风徐来", "gender": 1}
+{"content": "太好看啦，真的是卡梅隆的都好看，全程无尿点", "score": 10, "nick": "zkkjulia", "gender": 1}
+{"content": "完全不知道在干什么。", "score": 2, "nick": "preference！", "gender": 0}
+{"content": "好看！美国电影的理念和技术确实引领全球！片子逻辑结构紧凑、画面冲击力强、表现形式创新。这个影厅不错，没有万达的大，但整体影音效果感觉要更好些。", "score": 10, "nick": "天下田园", "gender": 0}
+{"content": "还好吧我觉得这部电影", "score": 6, "nick": "cxy934207250", "gender": 0}
+{"content": "特效真心不错，厉害，期待续集", "score": 9, "nick": "koeychan", "gender": 2}
+{"content": "太燃了  我单方面宣布阿丽塔是我女朋友哈哈哈哈哈", "score": 10, "nick": "tnN725383978", "gender": 1}
+{"content": "大片，值得一看。", "score": 10, "nick": "全职女壮士", "gender": 2}
+{"content": "好看好看，重头到尾都好看，就是结局太仓促，有点遗憾", "score": 10, "nick": "X.x", "gender": 2}
+{"content": "这部电影的人物设计像极了还原游戏动画人物的造型，真实的营造了一个梦幻空间，这部电影会让你想到《攻壳特工队》、《机器人总动员》《最终幻想》等影片还有一系列打斗动漫，打斗场面做的还是很有设计感，打斗也很精彩。感觉二次元会很喜欢，有种动画打斗场面走进现实的感觉，人物还不崩，但是中部也有尿点。总之还是值得进电影院的片子吧。", "score": 9, "nick": "BCY671240175", "gender": 2}
+{"content": "太吸引人了，期待会怎么样", "score": 6, "nick": "额呃呃呃", "gender": 0}
+{"content": "失忆妹纸通过不断升级装备找寻自我的故事，全程没有宏大打斗场面，但小打小闹不断，情节一般，机甲设计可以，坐等第二部", "score": 8, "nick": "起个名费羊劲", "gender": 1}
+{"content": "好看，期待续集", "score": 8, "nick": "archon0663", "gender": 1}
+{"content": "期待第二部，第一部还不错", "score": 9, "nick": "半城烟雨尽繁华", "gender": 1}
+{"content": "非常震撼特效超棒剧情很精彩。", "score": 10, "nick": "自由行走的花🌺", "gender": 2}
+{"content": "特效非常不错，推荐MIX巨屏观看。", "score": 8, "nick": "等价交换", "gender": 1}
+{"content": "我爱上了阿丽塔", "score": 10, "nick": "dp丶鹏", "gender": 1}
+{"content": "天降垃圾医生捡，化废为宝阿丽塔，一见钟情废材男，变种篮球有点残，突变猎人把钱赚，大打出手惹恩怨，视死如归身体废，破茧重生忆往事，半途退赛救渣男，男主变身再造人，勇闯撒冷秒废男，结局突兀拔剑举，拔剑举😂🤣🙃🤯🤢🤮🤧\n\n总结：\n1. 特效就那样\n2. 剧情狗血\n3. 世界框架不明", "score": 2, "nick": "rjO802111384", "gender": 1}
+{"content": "特效滿分、人物滿分！", "score": 10, "nick": "虚怀若谷", "gender": 1}
+{"content": "非常良心的电影！", "score": 10, "nick": "iey844685389", "gender": 0}
+{"content": "我看的爽，满分", "score": 10, "nick": "归忘i", "gender": 0}
+{"content": "泰禾不错，屏幕大，就是剧情没意思，感觉不行了，还是流浪地球好看。", "score": 10, "nick": "路飞霸王色霸气", "gender": 1}
+{"content": "分数给打斗场面，剧情一般，故事还没讲完，吊胃口，电影拍成电视剧的节奏", "score": 8, "nick": "jing19840503", "gender": 2}
+{"content": "电影很好看，情节紧凑，特效也很不错，力推", "score": 10, "nick": "EOS700D", "gender": 1}
+{"content": "I like the Hero Alita designed quite well. The special effects , the plot and action are much more better than The Wander Earth. Couldn't be beat！", "score": 10, "nick": "lMa145194486", "gender": 1}
+{"content": "纯给特效的，故事情节不用期待", "score": 8, "nick": "🎯曾小贤🔫", "gender": 1}
+{"content": "阿丽塔好帅... 这部片也太良心了 剧情挺好的 也是一部非常nice的科幻片了 动作场面还有视觉效果都出乎意料的好 而且剧情方面也比较容易深入 看完再留下来听一波片尾曲就很爽了！！", "score": 10, "nick": "Rodgers_Yan", "gender": 1}
+{"content": "没看够就结束了", "score": 9, "nick": "嗯", "gender": 0}
+{"content": "不错，颜值很高，适合萝莉控", "score": 10, "nick": "上药三品.刘千峰.626.壬辰", "gender": 1}
+{"content": "卡梅隆的作品果然是从不会让人失望的，没别的说", "score": 10, "nick": "hello0717", "gender": 2}
+{"content": "爱情线尴尬，剧情太乱", "score": 4, "nick": "beautiful姐姐", "gender": 0}
+{"content": "整部片子都很好，非常棒，就是结尾感觉很奇怪，莫名其妙就停了，难道是有第二部？", "score": 9, "nick": "IWc551363799", "gender": 0}
+{"content": "不错，就是结局有点", "score": 10, "nick": "沈家一坏蛋", "gender": 0}
+{"content": "剧情真心垃圾", "score": 3, "nick": "吴城璐", "gender": 2}
+{"content": "很好看，特效很好，期待下一季，剧情也可以", "score": 9, "nick": "战203", "gender": 1}
+{"content": "好看，期待第二部，爱上卡姿兰大眼睛。", "score": 10, "nick": "画安_90518", "gender": 0}
+{"content": "特效不错，剧情普普，对一个老漫画迷来说只能算是回忆跟朝圣的心情来看这电影了。", "score": 8, "nick": "ike_sun", "gender": 1}
+{"content": "非常好看 剧情紧凑而易懂流畅  视觉效果精彩亮眼", "score": 10, "nick": "我就是我", "gender": 1}
+{"content": "超级好看  超级好看", "score": 10, "nick": "晓0酱", "gender": 2}
+{"content": "很好看啊！喜欢阿丽塔！", "score": 10, "nick": "clyAngela", "gender": 0}
+{"content": "挺好看的，期待下一部", "score": 10, "nick": "懵", "gender": 2}
+{"content": "剧情常规，特效不错", "score": 8, "nick": "月色清寒", "gender": 2}
+{"content": "非常刺激  看完意犹未尽  期待第二部   特效也非常好   主体还是男生热爱的机器人", "score": 10, "nick": "zyo298221987", "gender": 0}
+{"content": "太帅了 太好看了吧", "score": 10, "nick": "不贰皮", "gender": 0}
+{"content": "两个小时的预告片，毫无征兆的结束了…", "score": 10, "nick": "吃货萌无敌vvv", "gender": 2}
+{"content": "牛逼！打斗了半日最终依旧回到主题留给你思考！特效炫酷啊！", "score": 9, "nick": "影迷乙", "gender": 2}
+{"content": "真他娘的酷.", "score": 10, "nick": "呕叙", "gender": 0}
+{"content": "电影很炫，阿丽塔太酷了!无敌!💪男主也很帅😂嘿嘿😁 后面的情节也有些感动，虽然最后莫名其妙的就结束了，但整体感觉很不错，很伟大的科幻影片", "score": 10, "nick": "慕然鹿比", "gender": 1}
+{"content": "可以的，非常好", "score": 10, "nick": "MrYang", "gender": 1}
+{"content": "剧情太慢，可能是为了第二部", "score": 8, "nick": "顾峰", "gender": 1}
+{"content": "很不错，看阿丽塔之前建议先看一下阿丽塔战斗天使的原版动画——铳梦", "score": 10, "nick": "Zfm872040081", "gender": 1}
+{"content": "剧情说实话动漫的套路，有一个泪点很感人，我老婆流泪了！ 这里重点要说的事整部电影特效代表了当今世界最高水平！！！赞赞赞", "score": 9, "nick": "开心丶嘎嘎", "gender": 0}
+{"content": "就是及格吧 最后半个小时不错 剧情太长看的快睡着了 不过有反套路的点值得表扬", "score": 6, "nick": "缘来碧海之冰", "gender": 2}
+{"content": "我是觉得没头号玩家好看", "score": 7, "nick": "ID27", "gender": 1}
+{"content": "一般般，就是为了拍续集的吧", "score": 1, "nick": "素残love", "gender": 1}
+{"content": "我觉得太好看了，这两年我认为是最好的片。未来的场景刻画得非常好👍，期待续集！", "score": 10, "nick": "烧荒草的味道", "gender": 1}
+{"content": "剧情、效果非常不错，卡神作品，值得期待！", "score": 10, "nick": "Xoc771452427", "gender": 0}
+{"content": "恩……个人觉得特效方面还可以，但是剧情就嗯嗯嗯嗯嗯嗯，感觉像八点档狗血爱情片一样，为啥女主是个恋爱脑？？？人设是真的不喜欢，剧情个人觉得格局太小了，就不能好好的走什么酷炫狂拽画风，打遍天下无敌手吗？！而且，医生明明救了她，把他给自己女儿造的身体给了她，为啥对一个陌生男的这么好这么信任，对医生就……像一个中二叛逆恋爱脑少女一样", "score": 5, "nick": "阿九啾啾啾啾啾", "gender": 2}
+{"content": "真的真的太好看了，无法用言语形容了！", "score": 10, "nick": "hey.fox", "gender": 1}
+{"content": "真好精彩，新创作。", "score": 10, "nick": "FIS.S", "gender": 0}
+{"content": "可能是预期很低，看得时候反而出乎意料，剧情没那么烂", "score": 7, "nick": "Чжун  Хуэйминь", "gender": 2}
+{"content": "特效超级棒 阿丽塔真可爱！！", "score": 10, "nick": "柚生.", "gender": 0}
+{"content": "超赞，就爱看这种，作者很赞，导演荣耀", "score": 10, "nick": "fantastic魅影", "gender": 1}
+{"content": "剧情，特效都没的说，卡神就是卡神，不管拖更多长时间，再次出现就是会让人心甘情愿地买票。但就这部电影，喜欢归喜欢。但如果打分的话，也就讲讲及格（因为特效再加两分）。影片想讲的东西太多，反而打乱了影片的结构。整部电影看下来，会发现根本没有一条贯穿始终的故事线。讲述找记忆？影片中段基本上记忆就恢复了。爱情？最后爱情没了却变成了动力。父女情？在打闹猎人酒馆之后，父女俩人的观点已经得到统一不用在升华了。像在酒馆里对其他猎人说的要干掉那个反派大块头？不好意思，在换完身体之后，女主已经对这个大块头形成了碾压。登上撒冷？使命？那是恢复记忆之后，才延伸出来的任务。全是支线任务。（字数有限，多了不说了。以上）", "score": 8, "nick": "劉仙森", "gender": 1}
+{"content": "阿丽塔也太好看了吧", "score": 10, "nick": "Your Passerby龙", "gender": 0}
+{"content": "莫名其妙，看睡着了", "score": 1, "nick": "迁就你一生う", "gender": 0}
+{"content": "刺……刺激👍🏻\n期待第二部阿丽塔手撕大boss", "score": 10, "nick": "仙女要上班赚钱", "gender": 2}
+{"content": "无聊看看还行，不推荐看，不值得专门去看，如果一直打球可以给9分", "score": 5, "nick": "流风回雪", "gender": 0}
+{"content": "很好看啊不错。", "score": 10, "nick": "Zeus大本营", "gender": 0}
+{"content": "这迷之字幕是怎么回事", "score": 3, "nick": "凌乱的舞步mx", "gender": 0}
+{"content": "完美！特效真的实在无话可说的赞。", "score": 10, "nick": "Eli1218", "gender": 1}
+{"content": "完美~超级震撼 期待第二部~", "score": 10, "nick": "「Mr.23」", "gender": 0}
+{"content": "期待续作 swan song！", "score": 9, "nick": "殇㱥", "gender": 1}
+{"content": "特效确实好 打斗节奏很爽 剧情单薄了些", "score": 8, "nick": "JunShibata", "gender": 0}
+{"content": "超好看，期待第二部", "score": 10, "nick": "永恒的宝石", "gender": 2}
+{"content": "大导演卡梅隆，高科技包装，一如既往的老掉牙的故事，失望了。\n\n特别提醒，千万不要让18岁以下去看，有一些镜头不好让青少年看见", "score": 6, "nick": "花语叶心", "gender": 2}
+{"content": "非常好看，期待续集", "score": 10, "nick": "小林〜", "gender": 1}
+{"content": "非常期待第二部", "score": 10, "nick": "zqw", "gender": 1}
+{"content": "这绝对会出第二部啊", "score": 10, "nick": "舒哥你很帅", "gender": 1}
+{"content": "宏大的场景和精湛的特效再现一个科幻的未来世界。未来世界在战火中成了一片废土，人类社会呈现出无序颓废，黑暗绝望，弱肉强食的蛮荒状态。未来人类拥有的科技无疑是进步而强大的，甚至可以将自身改造成拥有核心，具有超强的核能战斗力的钢铁之身，然而人类为了拥有更强大能力的目的却是为了逃离已成废土的钢铁之城。影片用两种极端的表现手法，一边是个人能力越发强大，一边是整个社会大环境的退步，这种对比让我们思考一个问题，拥有强大个人能力的目的是什么？个人能力的强大不能为社会的构建进步作出贡献，这种能力是无意义的，促进科技进步的最终目的应该是服务于和谐，文明，进步的人类社会。执道德心，掌科技剑，才能执掌未来世界。", "score": 9, "nick": "细嗅蔷薇", "gender": 0}
+{"content": "这部电影全程看的我起鸡皮疙瘩，动作特效之类的看的是真的舒服，美中不足剧情略尬", "score": 9, "nick": "GRV425324878", "gender": 0}
+{"content": "说好的打斗呢，中间还谈情说爱，直男表示不服", "score": 4, "nick": "嘿，我的大胸弟", "gender": 1}
+{"content": "这也 太 帅了 叭", "score": 10, "nick": "布啦同意白熊很酷", "gender": 0}
+{"content": "金逸影城银幕太灰暗，坐在后排连字幕都看不清", "score": 0, "nick": "Nvl629381988", "gender": 1}
+{"content": "非常好看哦！", "score": 10, "nick": "睿嗒爸", "gender": 1}
+{"content": "武打的场景做的很好。期待第二部", "score": 8, "nick": "Constanze.", "gender": 2}
+{"content": "真好看，特别是结局那个精彩啊，推荐推荐！", "score": 10, "nick": "戴套套的猫", "gender": 1}
+{"content": "无与伦比 完美特效 \n\n卡帝牛逼！", "score": 10, "nick": "红红火火恍恍惚惚", "gender": 1}
+{"content": "从废墟遗弃的机械人，经过教授的巧夺天工，破茧而出，与诺瓦集团负隅而抗。春蚕到死丝方尽，蜡炬成灰泪始干，犹如老兵拼到最后一发子弹。罗导演完美无瑕地借喻机器，被逼交出生命的底牌，换取卑悯的生存价值，尽显当下社会普通人，生存的卑微与无赖，笑中有泪。阿丽塔的造型如阿童木、漫威的跨时代英雄，呈现水汪汪的大眼眼，泪水汩汩而流，不断涌现洪拳、咏春、太极、十二路谭腿等中国功夫，夹杂气势澎湃的背景音乐，惟妙惟肖地演绎中国元素。值得后现实主义的解构高手、漫画家等无数电影追梦人，即使武侠巨星断层，江郞才尽么，都是可以深度发掘，中西融汇，衔接天衣无缝。感受曾经的哭声，问苍茫大地，谁主沉浮，手执血刃，千钧一发悬念架空。", "score": 8, "nick": "霍景沛+佛山科学技术学院", "gender": 0}
+{"content": "期待续集！！", "score": 10, "nick": "xzc1171", "gender": 0}
+{"content": "确实是视觉盛宴~", "score": 10, "nick": "luna美娇狼", "gender": 2}
+{"content": "非常好看，酷炫狂拽肾上腺素飙升还能看到  无耻混蛋  里饰演纳粹军官的瓦尔兹秀演技，太值了", "score": 10, "nick": "曲终人散", "gender": 1}
+{"content": "特别喜欢..", "score": 10, "nick": "·__余笙", "gender": 1}
+{"content": "好久没看过这么好看的电影了", "score": 10, "nick": "HYLheart", "gender": 1}
+{"content": "主角漂亮，动作好", "score": 10, "nick": "文", "gender": 1}
+{"content": "超长预告片，不怎么推荐，除了特效好，剧情什么的太不值得票钱了", "score": 5, "nick": "墨色成蕴", "gender": 0}
+{"content": "太棒了，看的时候真的希望自己就是阿丽塔，真心期待下一部", "score": 10, "nick": "nI意礼.", "gender": 0}
+{"content": "感受到了青春时期爱情的感觉，那种简单、单纯、不顾一切的爱！很感动很热血很好看", "score": 10, "nick": "zzzzch", "gender": 0}
+{"content": "凑合着看吧，还可以", "score": 5, "nick": "我本是造孽", "gender": 2}
+{"content": "还行吧～～～～～", "score": 10, "nick": "翟亮feile", "gender": 1}
+{"content": "超级好看。", "score": 10, "nick": "秒睡秒睡王", "gender": 2}
+{"content": "昨天看的，才过来评分，太爽了这部片子，全程无尿点，特效，音效，bgm，画面，场景都很到位，情感表达的也恰到好处，不会觉得尬。个人感觉最精彩的地方是赏金猎人酒吧里那段跟后面的机动球比赛这两部分。", "score": 10, "nick": "【王琦龙】", "gender": 1}
+{"content": "画面满分 但剧情和角色设定实在是无力吐槽 电影拉成个电视剧的节奏 2小时看下来居然只是告诉你我们这个故事要开始讲了……额外给卡梅隆加一分期待分吧", "score": 7, "nick": "雪枫", "gender": 1}
+{"content": "特效可以 剧情一般", "score": 7, "nick": "舜柒zi苒", "gender": 1}
+{"content": "可能看预告期望有点高，剧情一般，特效没得说毕竟是大片，但是整体有些平淡", "score": 5, "nick": "dhT319115742", "gender": 0}
+{"content": "下午16点50 出2张CGV  4DX战斗天使阿丽塔电影票，无法退换如有今日有想看的伙伴兑2张代金券座位中间靠后[勾引]原价188  现价100元2张", "score": 10, "nick": "大飞", "gender": 1}
+{"content": "挺不错，特效和剧情都还算中上，值得电影院一看。", "score": 10, "nick": "一介煮夫糯米她爹", "gender": 1}
+{"content": "这电影居然捧成这样？？？？流浪地球为什么要被喷？？你们将严于律己宽以待人的优良传统发挥的淋漓尽致，果然是我们中华好儿女！棒棒的，手动滑稽", "score": 1, "nick": "eyx944877176", "gender": 2}
+{"content": "一定要看 特效效果很棒的大片 全程高能", "score": 10, "nick": "卡以", "gender": 1}
+{"content": "第一部作为铺垫来说的话还是一部好作品", "score": 8, "nick": "Alcheme", "gender": 0}
+{"content": "效果炸裂 没的说   很多细节 原原本本 还原了 原作  舒服\n故事开始都是美好的 后半段些许悲伤了一些 \n雨果 最后掉下去 那一段 阿丽塔伤心的嘶吼  能感受到  那种疼痛    感谢卡神  十分满足", "score": 10, "nick": "半夏", "gender": 1}
+{"content": "影如其名，不错", "score": 10, "nick": "小丸纸和肉丸纸", "gender": 2}
+{"content": "阿丽塔，喜欢她打斗画面，一点都不怂，别人都是英雄救美，她真的是“英雄救美”，天使以为世界都是好的，却发现并不是所想的那样", "score": 8, "nick": "小祖宗", "gender": 2}
+{"content": "值得看的一部电影，引人入胜。", "score": 10, "nick": "颜荼.", "gender": 0}
+{"content": "面对邪恶！我怎会袖手旁观", "score": 10, "nick": "黄花大小伙儿L", "gender": 0}
+{"content": "说真的，挺无聊……", "score": 1, "nick": "tEq477585895", "gender": 1}
+{"content": "不好看!剧情无聊!", "score": 2, "nick": "朱87875889", "gender": 2}
+{"content": "还不错000", "score": 9, "nick": "FFH419252844", "gender": 0}
+{"content": "漫画改  内容砍得太多", "score": 7, "nick": "哇哇哇叫的鱼人", "gender": 0}
+{"content": "结尾太unexpected 女主成功把我这个粉圈到了！", "score": 10, "nick": "a俊沅-", "gender": 1}
+{"content": "没啥出彩的地方", "score": 5, "nick": "凡高1063", "gender": 1}
+{"content": "很棒，就是为什么不多拍点。", "score": 10, "nick": "形影布梨", "gender": 2}
+{"content": "好看的一批啊 感觉从剧情到人设 然后画面很炫酷 我和我的小伙伴都惊呆了 剧情也特别紧凑 总之非常期待第二部的电影 ", "score": 10, "nick": "冰山", "gender": 0}
+{"content": "过程很棒棒 结尾有点突然", "score": 9, "nick": "1锦鲤女孩", "gender": 0}
+{"content": "还好吧，视觉效果不错，打斗精彩，剧情咋样，结尾也不好，总体不如流浪地球", "score": 7, "nick": "大明", "gender": 1}
+{"content": "不愧是大导演的作品", "score": 10, "nick": "葬爱家族冷少", "gender": 1}
+{"content": "不好看，感觉全都在为第二部做铺垫，什么都没说清楚，很没有意思的一部电影，没看的不要去看了，情节几乎没有，说是战斗天使很牵强，评分都是刷的吧。", "score": 2, "nick": "木子歹朱", "gender": 1}
+{"content": "特效很好 剧情可能不是一步 可以讲完的", "score": 7, "nick": "许飞冰", "gender": 1}
+{"content": "特效满分，剧情有点狗血", "score": 8, "nick": "AIRtZQ", "gender": 0}
+{"content": "奈斯，快去看", "score": 10, "nick": "冒叉叉", "gender": 0}
+{"content": "好看，只是还要等下一部。。。", "score": 10, "nick": "储阳艳", "gender": 2}
+{"content": "特效也太好了", "score": 10, "nick": "兴", "gender": 1}
+{"content": "屌的一笔啊，赶快出第二部！", "score": 10, "nick": "SvenLIU666", "gender": 1}
+{"content": "日漫改的电影，不是很喜欢", "score": 7, "nick": "有多少人都是过客", "gender": 1}
+{"content": "还是卡神的控场能力，但是感觉节奏有点怪怪的，可能是意犹未尽的感觉在作祟吧，特效非常棒但是感觉每次打斗场面都有点短，可能也是导演为了突破电影的俗套节奏而付出的努力吧，但是调整的不太好甚至有些该俗的地方去掉了，不该俗的地方完全按照老套路。可能也是我太刁钻了吧，只是个小白，要多看电影", "score": 9, "nick": "一生平安", "gender": 0}
+{"content": "超级好看，国外的科幻制作水平国内真的是，超前太多了！牛！", "score": 10, "nick": "点点贝儿宝", "gender": 2}
+{"content": "感觉很一般，还有第二部的节奏", "score": 3, "nick": "A.  🐲 💫向", "gender": 0}
+{"content": "很不错，就是剧情一般了，期待下一部", "score": 9, "nick": "中学生", "gender": 1}
+{"content": "nice啊啊", "score": 10, "nick": "路之末", "gender": 1}
+{"content": "打斗场面很好看，就是没想到的结局，应该会有第二部吧", "score": 9, "nick": "quq哒", "gender": 0}
+{"content": "好看好看好看的事情说三遍", "score": 10, "nick": "忠凯", "gender": 1}
+{"content": "3d眼镜有问题，刚开始以为我自己的眼镜坏了，后来发现周围的人都是这样。", "score": 5, "nick": "kSu806754588", "gender": 0}
+{"content": "还比较期待第二部，里面的打斗真的很精彩", "score": 9, "nick": "心软.", "gender": 0}
+{"content": "好看！！！！！", "score": 10, "nick": "love丶Shuffle", "gender": 1}
+{"content": "很好看！！！", "score": 10, "nick": "可爱弱小无助", "gender": 0}
+{"content": "卡梅隆没让人失望过，这次也不例外！", "score": 10, "nick": "他°", "gender": 1}
+{"content": "非常不错的一部感人科幻片", "score": 10, "nick": "周韦（JAKE）", "gender": 1}
+{"content": "很好看，特别是细节的地方，例如机械部分的制作，非常精细。期待下一部。", "score": 9, "nick": "neU442932149", "gender": 2}
+{"content": "战斗场面刺激", "score": 10, "nick": "像风一样自由", "gender": 1}
+{"content": "太好看了，我看的是imax特别震撼，超级好看呀！强推！太好看了，我已经无法用言语表达这部好看了！导演太有才了，希望还有下一部！", "score": 10, "nick": "清风挽心", "gender": 0}
+{"content": "好看非常好看", "score": 10, "nick": "我们盛开吧", "gender": 1}
+{"content": "真的阿丽塔特别帅啊简直帅到爆", "score": 10, "nick": "wRB392839816", "gender": 1}
+{"content": "好好看，真的超级好看。期待第二部吧", "score": 10, "nick": "Chocorooo", "gender": 0}
+{"content": "不错的片子，和侄女去看的，VIP场卖光了，只能普通厅，还不错。", "score": 9, "nick": "天使的梦魇", "gender": 2}
+{"content": "不错的电影值得", "score": 10, "nick": "象拔蚌QBQ", "gender": 1}
+{"content": "战斗场面很好看，特效很好。第二部出来后故事能更丰满些就更好了。", "score": 9, "nick": "天棚圆帅", "gender": 0}
+{"content": "辣鸡片一部剧全部人物干不过一个齿轮，", "score": 1, "nick": "💋Miss you℡", "gender": 0}
+{"content": "《阿丽塔：战斗天使》是由二十世纪福斯电影公司出品的科幻动作片，由罗伯特·罗德里格兹执导，罗莎·萨拉扎尔、克里斯托弗·瓦尔兹、马赫沙拉·阿里、詹妮弗·康纳利联合主演。该片于2019年2月14日在美国上映，于2019年2月22日在中国内地上映[1]。\n《阿丽塔：战斗天使》根据日本漫画家木城雪户的小说《铳梦》改编，影片故事背景设定在在26世纪，讲述了身处末世，幸运重生的机械女孩为了改变世界而勇敢奋斗、踏上探索真相旅程的故事[2]。", "score": 10, "nick": "杨杨杨杨", "gender": 1}
+{"content": "2分是给竞技场的，其他的0分", "score": 4, "nick": "YYQ", "gender": 1}
+{"content": "太好看了,十分期待第二部。", "score": 10, "nick": "Y～阿旺", "gender": 0}
+{"content": "好看，机械人比人类更具有美好的品质。", "score": 9, "nick": "Mr.Chen", "gender": 1}
+{"content": "很好看  感觉很棒", "score": 9, "nick": "刘逸24", "gender": 1}
+{"content": "好看。。。。。。。。。", "score": 10, "nick": "大花耍", "gender": 0}
+{"content": "唯一的不完美是还有下一部，好想一次看完😁", "score": 10, "nick": "权权权权是你LML", "gender": 2}
+{"content": "画面很震撼，好看", "score": 9, "nick": "周坤2530", "gender": 1}
+{"content": "情节一般，特效不错。", "score": 7, "nick": "阿里巴巴评论员", "gender": 1}
+{"content": "特效不错，但没有想象中的好看，为啥不能拍个完整的故事，一定要拍续集。。。", "score": 8, "nick": "顾林", "gender": 1}
+{"content": "Just so so 特效也没有让人有一种多特别的震撼的感觉，可能电影院无法体现出这部电影真正的特效吧。剧情也并没有多少惊艳", "score": 5, "nick": "BD8894", "gender": 1}
+{"content": "好看，要是和雨果在一起了就更好了", "score": 10, "nick": "S.", "gender": 0}
+{"content": "拍的不错，做为原漫画迷，至少拍成了我想看的样子！", "score": 9, "nick": "天空的猫猫", "gender": 0}
+{"content": "电影≠电影工业，好电影≠特效，用了再多的技术这部电影也是烂片无疑，筹划了二十年就拍了这么个玩意实在匪夷所思，比起小破球都差的远，说到底还是卡神在这个项目上没有太用心。顺带说句，阿丽塔的上映真是打的那些无脑跪舔好莱坞的勺子们的脸啪啪的响。", "score": 3, "nick": "🎃⚡锋轻扬⚡🎃", "gender": 1}
+{"content": "好看的不要不要的", "score": 10, "nick": "二马木木三", "gender": 1}
+{"content": "一部划时代的电影 值得一看", "score": 10, "nick": "豪豪振振婷婷", "gender": 0}
+{"content": "我觉得很好看鸭，女主超级帅", "score": 10, "nick": "请写信给我__", "gender": 2}
+{"content": "哈哈哈哈啊哈哈好", "score": 10, "nick": "cats1977", "gender": 0}
+{"content": "s**c\n购票 \n 6.0\n 希望越大失望越大，平常的心去看待吧，之前一直对卡梅隆的作品寄予厚望，阿凡达，泰坦尼克号，确实很不错，现在去看都觉得好看，可阿丽塔太平庸了，跟一部普通的美国科幻片没什么区别", "score": 5, "nick": "一哥", "gender": 0}
+{"content": "战斗天使，完美", "score": 10, "nick": "danki7", "gender": 2}
+{"content": "很不错，特效很完美，电影很超前", "score": 10, "nick": "xinkong02", "gender": 1}
+{"content": "3分的特效，0分的剧情，属于看了10分钟开头，你就能猜到电影的所有剧情那种", "score": 6, "nick": "gVR843792491", "gender": 1}
+{"content": "动作片，科幻片 还可以的。喜欢阿丽塔的直爽性格！ 希望雨果没死！ 期待第二部！", "score": 10, "nick": "小鱼鱼er", "gender": 2}
+{"content": "打斗特效都很精彩，就是后面剧情发展太莫名，突然就见 boss，突然就叫粑粑", "score": 8, "nick": "邹书宇", "gender": 0}
+{"content": "一上映的当天就买了IMAX的票，当天晚上还下着大雨又降温，但为了第一时间看到这部期待已久的大片，还是坚持开着二轮“宝马”去影院，到达影院时间刚好开始！\n看完后整体来说非常不错，首先：这样的制作水准也只有欧美少数的人能够做到，特别是电影中的特效，动作场面，人物的特点！当然之前宣传阿丽塔的那双大眼睛更是人惊叹，比真人的还真！这些都是中国电影相差不知多少年才可以做到的事！\n至于剧情来说相对没毛病，也不算特别让人意外的，喜欢电影，懂电影的人一定会对这部电影推崇至高的，这样的电影建议一定要看IMAX板的。\n唯一少给1分是因为结局让人看得不过瘾。", "score": 9, "nick": "小春春", "gender": 1}
+{"content": "非常好看你也看看", "score": 10, "nick": "Danny", "gender": 0}
+{"content": "小姐姐太好看啦!剧情很舒服，没有突兀的地方。再一个男主的遭遇……感觉要拍续集。舒服，特效什么的也很大气。", "score": 10, "nick": "卡姿兰CC大叔", "gender": 1}
+{"content": "不好看，不感冒", "score": 4, "nick": "LoveMilanHu", "gender": 0}
+{"content": "剧情套路没一点新意，日本小说改编感觉都这个样，结果只有打斗场面那一点内容。", "score": 3, "nick": "。Extraordinary", "gender": 0}
+{"content": "非常好看，但是总觉得没有演完，可能还有第二部。", "score": 10, "nick": "风会替我拥抱你", "gender": 2}
+{"content": "合格的爆米花电影，特效超棒", "score": 8, "nick": "黑夜", "gender": 1}
+{"content": "非常期待下一部！", "score": 9, "nick": "小鱼儿io", "gender": 2}
+{"content": "好看  期待第二部！", "score": 10, "nick": "明天", "gender": 1}
+{"content": "就只有特效好了", "score": 7, "nick": "眯眼看世界", "gender": 1}
+{"content": "非常不错的一部电影", "score": 10, "nick": "_qqx681437376770", "gender": 2}
+{"content": "太好看了，不但有特效还有故事情节，真是一部好电影！还可以深刻一些！还可以续集", "score": 9, "nick": "红旗飘飘", "gender": 1}
+{"content": "机器人都能谈恋爱了，有味觉，有泪腺，啥时候可以再升级，能繁衍小机器人", "score": 9, "nick": "信用贷款~吕", "gender": 0}
+{"content": "不好看，看睡着了，一点意思都没有，", "score": 1, "nick": "程程", "gender": 2}
+{"content": "画面炸裂！卡神还是卡神", "score": 9, "nick": "Happy", "gender": 1}
+{"content": "很棒的电影，看了之后女儿说真好看，人性刻画的很好，特效也很棒，我想大家给的分低是因为内心中认为好莱坞的电影就应该怎么样怎么样？评分标准和流浪地球已经不一样了，这部电影如果和流浪地球换个时间播放，我想流浪地球并没有多少票房，阿丽塔也会大卖特卖，超过流浪地球分分钟的事儿", "score": 10, "nick": "天外飞仙", "gender": 0}
+{"content": "好哈哈哈还好还好", "score": 8, "nick": "zLR837502344", "gender": 1}
+{"content": "太棒了真好看", "score": 10, "nick": "得不到的男人。", "gender": 0}
+{"content": "完美完美完美", "score": 10, "nick": "飝min", "gender": 0}
+{"content": "给了流浪地球满分，其中含有友情分和鼓励分。给阿丽塔9分，致敬卡神！", "score": 9, "nick": "大宋皇室", "gender": 0}
+{"content": "特效很好。剧情节奏略快但也可以", "score": 10, "nick": "HBP328140706", "gender": 1}
+{"content": "，，，，，，", "score": 10, "nick": "iMl239407383", "gender": 0}
+{"content": "特效不错，剧情我觉得刚要高潮了就结束了？？？", "score": 7, "nick": "Sunny_0羽", "gender": 2}
+{"content": "真的不错，别再吹一踩一了好吗", "score": 10, "nick": "Q", "gender": 1}
+{"content": "好看，近期最好看的", "score": 10, "nick": "阿进", "gender": 1}
+{"content": "这结尾悬念是真的大...看完出来以后总觉得这个电影没看完", "score": 7, "nick": "晴栀的暖", "gender": 0}
+{"content": "超级好看啊！！没看过原著，但是电影很好看，想去看原著了ww", "score": 10, "nick": "boom恰恰", "gender": 2}
+{"content": "这几年里看的最好看的特效电影！没有之一！", "score": 10, "nick": "么么大鹏", "gender": 0}
+{"content": "哇这部电影的特效未必也做的太好了吧！这一部拍出来之后堪比惊奇队长惊奇队长出来了，票房不一定比他高，有的一拼，这部电影没看过瘾，很期待续作，也就是下一部，下一部一定去看首映。真心好看，强力推荐一下呗！", "score": 10, "nick": "丶忆180°Îǒv", "gender": 1}
+{"content": "完美，这才是科幻", "score": 10, "nick": "琼斯博士@陈强", "gender": 0}
+{"content": "阿丽塔这个角色，外表纤瘦却战斗力爆表的小姑娘，躯体中又饱含人性。骁勇善战，也善恶分明。又一部划时代科幻巨制，詹姆斯-卡梅隆历时二十年打造的科幻视效巨制，作为春节后的首部好莱坞大片，已经显露出了十足的爆款潜质！搭配中  国巨  幕的10fL的高亮，真的爽！", "score": 10, "nick": "东台不止一个我", "gender": 0}
+{"content": "打斗场面热血沸腾！好看！", "score": 10, "nick": "耿子_", "gender": 2}
+{"content": "先尊重一下质量\n但是日本文化里对强权的服从性\n以及对个人主观能动性的否认\n有点不太能接受", "score": 10, "nick": "BpP848480441", "gender": 1}
+{"content": "非常好看推荐", "score": 10, "nick": "鹿晗晗晗晗晗仪", "gender": 0}
+{"content": "视觉效果惊艳", "score": 9, "nick": "花花的麦架", "gender": 0}
+{"content": "超级炫酷的一部电影，非常好看", "score": 10, "nick": "ジ離訫咒ゆ", "gender": 1}
+{"content": "虽然情节上面还有所欠缺，但是作为一部爆米花电影，打斗场面精彩，特效酷炫！非常值得一看！", "score": 10, "nick": "ziZ579309184", "gender": 1}
+{"content": "非常棒，视觉盛宴。", "score": 10, "nick": "呼伦大贝儿～球球", "gender": 2}
+{"content": "很精彩，未来世界塑造的很形象！", "score": 10, "nick": "风凌之瞳", "gender": 1}
+{"content": "空洞无物，白白浪费了卡梅隆监制的名号和铳梦的脚本基础。", "score": 3, "nick": "徐宇翔 励丰文化策划", "gender": 1}
+{"content": "阿丽塔这个角色，外表纤瘦却战斗力爆表的小姑娘，躯体中又饱含人性。骁勇善战，也善恶分明。又一部划时代科幻巨制，詹姆斯-卡梅隆历时二十年打造的科幻视效巨制，作为春节后的首部好莱坞大片，已经显露出了十足的爆款潜质！搭配中  国巨  幕的10fL的高亮，真的爽！", "score": 10, "nick": "跟紧我宝贝", "gender": 0}
+{"content": "很好看，但是好像结尾有续集", "score": 10, "nick": "刘波1211506", "gender": 2}
+{"content": "还好吧，剧情没有太多的惊喜，很平淡", "score": 7, "nick": "feng-qiao", "gender": 2}
+{"content": "只有特效，剧情太差", "score": 8, "nick": "BrB222044613", "gender": 1}
+{"content": "是很好看没错了", "score": 10, "nick": "Y.I.X.I.N.", "gender": 2}
+{"content": "我很重视剧情", "score": 6, "nick": "清水永易", "gender": 1}
+{"content": "在中国巨幕看过多次科幻大片，还是高  亮3D效果观感一级棒！这种片子过分要求剧情必然不现实，动作凌厉到狠，特效酷炫到炸，如哈利波特魁地奇一般的争球赛创意十足，看的酣畅淋漓就够了。有卡神把关视觉技术，宏大的世界观和朋克风着实令人惊叹。结 尾也暗示了一个新的系 列诞生，期待更加丰满的续篇。", "score": 10, "nick": "来一份番茄炒鸡蛋啊", "gender": 2}
+{"content": "真的很好看，", "score": 10, "nick": "hye220113359", "gender": 0}
+{"content": "只能给四分不能再高了，片子没逻辑，没转弯，看的过程我毫无惊喜，毫无悬念，打斗也都是非常平庸的，划片也很平庸，北京设计就是一个废铁城加个炫富城，打斗就是普通的武装格斗，无非是人改造了一下，加了一点机器部件，毫无惊喜只能说。", "score": 2, "nick": "Lucifokiss", "gender": 1}
+{"content": "特别好看！！", "score": 10, "nick": "星星", "gender": 1}
+{"content": "特效可以剧情太无聊", "score": 6, "nick": "陳思Cissy", "gender": 2}
+{"content": "看特效的话非常可以，唯一不足的是剧情太烂看到结尾都不知道为什么要打幕后BOSS，反派到底干了啥从300年前一直打到现在，女主也太暴力了感觉从一开始就想着打打杀杀的，跟男主感情线也是认识没几天就掏心送男主去卖了，也不知道男主干的就是抢劫改造人零件卖的主，怎么不发挥一开始就把老爹身份查个底朝天的脾气呢   而且看演员表，导演都不是卡梅隆只是挂了个监制的名头，看新闻人家卡梅隆估计早就都知道片子会拍烂所以辞职改当监制了，所以给6分主要给特效了", "score": 6, "nick": "精彩舞飞扬", "gender": 1}
+{"content": " 好看好看好看", "score": 10, "nick": "看透卜说透 ∞", "gender": 1}
+{"content": "期待了很久的一部片，看完之后很平淡，这并不意味电影不好看，有激斗的桥段，感情戏份也很足。我觉得这是再为续集做铺垫，并不是像别人说的那么简单，本片值得细细的去体会，当然特效也是不可忽略的一个亮点。", "score": 9, "nick": "JasLee", "gender": 1}
+{"content": "反正我是觉得阿丽塔帅炸了", "score": 10, "nick": "刘自豪", "gender": 1}
+{"content": "前面前面交代不清，后面有点烂尾……\n咋说呢…因为漫画改编的的吧，删了很多剧情。总感觉不连贯，看着特别的生硬。\n特效还是挺棒的，剧情一般吧，毕竟还是有点出彩的，就是感觉没有什么吸引人的地方。", "score": 6, "nick": "Baby霸王勋.578", "gender": 1}
+{"content": "好看 很刺激！虽然没有结尾但是过程还是挺爽的，看阿丽塔战斗时的快感 太舒服了...", "score": 10, "nick": "PPd猪猪", "gender": 2}
+{"content": "蓝瘦，买了还没来的及看就有事情出去了", "score": 10, "nick": "血影彬城", "gender": 1}
+{"content": "\n 好的电影也怕喷子误国，确实是一部好的电影，现在知道为什么国内春节期间不给上映了，确实可以碾压春节一些纯粹就是为了赚个过节钱粗枝烂渣的电影了“流浪地球还是可以欣赏一下”第一次才知道我老婆尽然也喜欢上美国大片了，一直说太好看了，她自己就是女主，没看过瘾还想看续集，期待续集。", "score": 10, "nick": "A+", "gender": 1}
+{"content": "真的很棒，看完还想再看", "score": 10, "nick": "拉格纳萝斯", "gender": 1}
+{"content": "简直是神作，非常好看", "score": 10, "nick": "厨师不用刀", "gender": 1}
+{"content": "确实是我想要的赛博朋克，但是剧情有点老套了", "score": 7, "nick": "辰晋", "gender": 1}
+{"content": "电影故事情节一般，特效倒还不错～～", "score": 8, "nick": "xyr0898", "gender": 2}
+{"content": "估计我期望太高了，感觉还好，打斗动作很不错，加分，场景也不错，就是CG阿丽塔皮肤不够真实，皮肤应该是通透泛点红，毛孔不给写实，感觉没阿凡达好", "score": 8, "nick": "sosowxl", "gender": 2}
+{"content": "爽，全程特效，机甲很好看，皮肤很好看，武器很好看，剧情的细节还是有的，不是很深刻，但是还强求什么，爽啊，第二部就是决赛，很期待，推荐去影院看", "score": 10, "nick": "Stoneking8435", "gender": 1}
+{"content": "不错的大片，情节一般，特效很好", "score": 8, "nick": "qBm709637699温柔", "gender": 0}
+{"content": "阿丽塔很漂亮，两个小时的电影感觉没什么核心内容，而且还是半节内容😂，要等下一部，d一般吧。", "score": 6, "nick": "小阿灵", "gender": 2}
+{"content": "很好看，期待第2部，", "score": 10, "nick": "陈伟霆哈", "gender": 2}
+{"content": "超级好，卡梅隆的电影，简直就是经典中的经典", "score": 10, "nick": "a2704690", "gender": 0}
+{"content": "好😊😊😊😊", "score": 10, "nick": "SWC667527868", "gender": 0}
+{"content": "科幻巨制！好希望故事情节更长", "score": 10, "nick": "💯夏目", "gender": 1}
+{"content": "真心不错！但是因为是电影时间的关系，剧情发展有些不衔接，希望推出第二部！！", "score": 8, "nick": "CncoKo", "gender": 0}
+{"content": "电影特别喜欢特别好看，真的特别好看。", "score": 10, "nick": "a。嘉豪   啊😑", "gender": 1}
+{"content": "很好看，期待续集", "score": 10, "nick": "15365982635", "gender": 1}
+{"content": "跟铳梦ova剧情差不多。特效满分。", "score": 10, "nick": "王喆", "gender": 0}
+{"content": "挺好看的，只是在剧情应该最精彩的时候结束了，期待第二部吧", "score": 9, "nick": "bxO501928748", "gender": 0}
+{"content": "剧情还不错，挺好看的！！！！！！", "score": 10, "nick": "sUk353536935", "gender": 0}
+{"content": "不推荐，除了打斗场面比较酷炫，内容很没劲", "score": 6, "nick": "李素一不是乖娃娃", "gender": 0}
+{"content": "期待下部！！！！", "score": 10, "nick": "黑涩猫小白z", "gender": 0}
+{"content": "唯一一部看的想睡觉的电影   科幻爱情片", "score": 5, "nick": "罗润", "gender": 1}
+{"content": "真心不错！！！", "score": 9, "nick": "那儿", "gender": 1}
+{"content": "震撼的特效。完美的阿丽塔。", "score": 10, "nick": "jsE659283163", "gender": 1}
+{"content": "很好的呢啊啊啊", "score": 10, "nick": "满地棒棒糖", "gender": 1}
+{"content": "真心不错，故事情节也很好看，挺感人的。", "score": 10, "nick": "Ankai618", "gender": 1}
+{"content": "格斗节奏感挺强的大片，特效完美，非常好看，剧情感稍弱，但是有点头脑的人都知道，其实所有的剧情都是铺垫，这一集的剧情最终目的就是为了阿丽塔的觉醒，已经开始期待续集。之前看了好多无脑黑的评论，居然还说爱情片，居然还能睡着！自被流浪地球的无脑黑刷新下限后，有一次被重新刷新！", "score": 9, "nick": "颖", "gender": 0}
+{"content": "场面可以，感情戏多余，结尾处理的太突兀了，期待前传和第二部。", "score": 10, "nick": "叫我帅哥就行啦～", "gender": 0}
+{"content": "打戏有点少，不知道打不打算拍续集。电影还是不错的值得一看！", "score": 9, "nick": "辣条兽丶", "gender": 0}
+{"content": "除了特效，其他都令人失望。看之前并不了解，导致带了两个孩子，太暴力了，根本不适合儿童观影", "score": 5, "nick": "毅", "gender": 0}
+{"content": "能说比流浪地球好看吗……不论是世界观架构还是画面剧情！", "score": 10, "nick": "林大臭", "gender": 0}
+{"content": "剧情佳，特效棒。套路有点老", "score": 9, "nick": "qkf18328038172", "gender": 1}
+{"content": "詹妮弗康纳利女神还是辣么美，快50的人了身材保持的好好。电影中规中矩吧，不是粉丝故事线没搞太明白，只想吐槽一句火联科技那么🐮b就不能给战衣加个飞行功能吗，那个清障环真是尴尬的不行。", "score": 8, "nick": "光", "gender": 1}
+{"content": "看困了💤\n结局太坑了", "score": 6, "nick": "DSD凯", "gender": 1}
+{"content": "好看 绝对是新年第一档值得看的片，全程紧凑，打斗场面精彩  颜值高  ", "score": 10, "nick": "泰恩特 新风", "gender": 2}
+{"content": "一个幸运重生的机械女孩阿丽塔，影片剧情丰富，画面震撼值得推荐我的小伙伴过去体验一下视觉盛宴。首先最赞的就是特效，这特效真的没话说即使是带有动画人物的阿丽塔，看着一点也不僵硬。跟真人一样带着情感，动作衔接也非常流畅，结尾结的突然是令我心情一下跌落谷底。。影片现在看来都是在为了第二部铺垫，刚要高潮影片就结束了。把我的的胃口深深的吊了起来，看来这个导演很自信啊。[偷笑]", "score": 10, "nick": "热爱百分百", "gender": 0}
+{"content": "特效很不错，只是还有续集，有点遗憾！", "score": 10, "nick": "萧翎2017", "gender": 1}
+{"content": "剧情紧凑没的说，女主漂亮，惊险刺激，人物性格反转也很到位。\n“医生”说身体没有好坏，只有心的好坏也算是经典了", "score": 10, "nick": "戾消", "gender": 1}
+{"content": "特效没的说，剧情很无聊", "score": 6, "nick": "Allred.徐", "gender": 0}
+{"content": "不错不错不错 可以可以可以", "score": 10, "nick": "旦增罗布08205", "gender": 1}
+{"content": "还不错，就是没看明白结尾", "score": 10, "nick": "姚先生", "gender": 1}
+{"content": "看了《阿丽塔》。咋说呢？打斗视效是不错，把假人弄的像真人了，但剧情就那样吧。\n阿丽塔眼睛太大了，弄这么大，是为了致敬日漫嘛？这还嫌不够大，还总喜欢再来个眼睛👀特写强调一下~\n阿丽塔的这个机甲术，开始练了一下是有点像太极、咏春，打起来又像跆拳道、空手道。\n其实，阿丽塔的最大突破就是特效技术了。", "score": 6, "nick": "飞你莫属", "gender": 1}
+{"content": "特效真没的说", "score": 8, "nick": "oper.leong", "gender": 1}
+{"content": "感觉还可以吧", "score": 8, "nick": "_qqf7z1381372764", "gender": 2}
+{"content": "真心好看，精彩的画面，精彩的影音世界。", "score": 10, "nick": "开满鲜花的春天", "gender": 1}
+{"content": "很好期待第二部", "score": 10, "nick": "么么哒。。。，，", "gender": 2}
+{"content": "电影满分，没得说。", "score": 9, "nick": "Ms.Chen丨", "gender": 2}
+{"content": "好看哦，卡神颠覆你的眼球！", "score": 10, "nick": "章元森", "gender": 1}
+{"content": "特效顶级出个续集吧", "score": 10, "nick": "李博", "gender": 0}
+{"content": "可以的 可以的", "score": 10, "nick": "刘超大师", "gender": 0}
+{"content": "燃炸，狂拽酷炫那种，就是没有结局", "score": 9, "nick": "我爱吃面条呀", "gender": 2}
+{"content": "好看，比漫威英雄要好看多了，特效又好，很喜欢", "score": 10, "nick": "rebecca", "gender": 2}
+{"content": "结尾收的就是让人感觉会出第二部，场面没得说，打斗刺激，剧情有泪点。不错不错值得一看的！", "score": 9, "nick": "零下一度半twx", "gender": 1}
+{"content": "没有新创意了", "score": 1, "nick": "等风来", "gender": 1}
+{"content": "下一部赶紧出～就受不了卡大爷出电影磨磨唧唧的十年磨一剑🌚", "score": 10, "nick": "三沙市里哥", "gender": 1}
+{"content": "个人感觉比流浪地球好看  太精彩了", "score": 10, "nick": "沉月求水、梦不碎最美", "gender": 0}
+{"content": "非常好看和朋友去的", "score": 10, "nick": "梁功群", "gender": 1}
+{"content": "很好看！！！！！", "score": 10, "nick": "🌟小帅龙🌟", "gender": 0}
+{"content": "片子很棒，特效很好，轻微血腥，卡神果然不会让人失望，很多剧情还原了原著<铳梦>，尤其是堪萨斯酒吧大战那真是精彩绝伦，CG角色和真人混打，技术水平达到了以假乱真的地步，真是让人信服。超级期待下一部，但愿别像阿凡达似的让我等辣么久！", "score": 10, "nick": "迷迭香", "gender": 2}
+{"content": "还会有第二部", "score": 8, "nick": "久孤", "gender": 1}
+{"content": "《阿丽塔：战斗天使》这部电影并非没有缺憾，女主大眼睛非常动人，给我留下了深刻的印象，总体很棒，特效惊人，结尾埋了个伏笔，期待下一部！", "score": 10, "nick": "银狐～吸引103", "gender": 0}
+{"content": "好看好看好看", "score": 10, "nick": "董小姐的猪", "gender": 1}
+{"content": "结局太仓促了，应该还有下一部，但是总体来说挺好看的，女主的眼睛真的漂亮", "score": 9, "nick": "彭源源0528", "gender": 0}
+{"content": "很好看，赞赞赞", "score": 9, "nick": "wrV22072017", "gender": 2}
+{"content": "好看的，技术没的说，有点感人，不断反抗，强大女主", "score": 10, "nick": "RQz608505658", "gender": 2}
+{"content": "电影很好看，就是买同一场的电影，上午买票和下午买票给价格变动太大，觉得亏了。", "score": 10, "nick": "小杯央", "gender": 0}
+{"content": "精彩的视觉体验", "score": 9, "nick": "暗境北宅", "gender": 0}
+{"content": "奔着特效去看的，刚好拿来消磨时间，也算是有惊喜的。总体来说剧情一般，设定模糊，又拖沓", "score": 7, "nick": "Jam", "gender": 2}
+{"content": "带小姐姐来看，人家都睡着了，不过个人还是觉得很赞的", "score": 10, "nick": "小玄一", "gender": 1}
+{"content": "很不错的一部电影，值得观看！", "score": 10, "nick": "小鑫186156", "gender": 0}
+{"content": "超级酷，打斗超好看看看看", "score": 10, "nick": "似水流年1932", "gender": 1}
+{"content": "人物性格鲜明，电影里呈现出来的往往都是现实里缺少的！期待续集！", "score": 10, "nick": "神之化身", "gender": 1}
+{"content": "打斗挺刺激的啊阿丽塔好美！", "score": 10, "nick": "失落的土豆", "gender": 1}
+{"content": "挺好看的 推荐", "score": 9, "nick": "菠萝噜噜噜", "gender": 2}
+{"content": "还没看过瘾就结束了，这是妥妥的拍第二部啊，等着吧……", "score": 10, "nick": "我比我快", "gender": 1}
+{"content": "宣传片看的比较激昂，影院观看后感觉是一场无灵魂的特效科幻大片", "score": 8, "nick": "加斯加岛屿的马达", "gender": 1}
+{"content": "牛没啥说的。。。。。", "score": 10, "nick": "林挺", "gender": 1}
+{"content": "好看，期待下集", "score": 9, "nick": "梁凉凉..", "gender": 0}
+{"content": "挺好看的～～", "score": 9, "nick": "Miko_TYJ", "gender": 2}
+{"content": "很难看，剧情俗套+烂尾，虽然现在美国这种电影套路都一样，但是这个甚至让人看的莫名其妙", "score": 1, "nick": "tTQ663304142", "gender": 0}
+{"content": "看过，因为最近电影几乎全看完了，所以片荒只能看阿丽塔了。特效是可以的，细节和细腻度比流浪好太多，但是剧情说实话一般般，很多地方感觉特别赶而且很牵强。", "score": 6, "nick": "老衲咻咻咻", "gender": 1}
+{"content": "大概因为要拍六集的关系，有些秘密不能马上揭开，所以第一集逻辑不圆的", "score": 7, "nick": "Joanne", "gender": 2}
+{"content": "本来不怎么看好这部的，朋友买了两张就跟着去了，没想到挺好看的😂😂", "score": 10, "nick": "噢", "gender": 1}
+{"content": "高度还原原作，遗憾的是原作最精髓的一段没拍，看得不过瘾。希望卡神拍续集！", "score": 9, "nick": "RogerSmith", "gender": 1}
+{"content": "字幕看不清楚。", "score": 9, "nick": "平淡lss", "gender": 0}
+{"content": "买错日期了😅", "score": 8, "nick": "lucky_不想", "gender": 1}
+{"content": "很值得去看的一部电影，剧情紧凑跌宕起伏扣人心弦，场面制作震撼。", "score": 10, "nick": "漂蓬", "gender": 0}
+{"content": "确实从特效和拍摄手法，细腻程度让人惊叹！节奏把握很好，人物关系的心里变化与塑造同样完美！必须加油加油！", "score": 10, "nick": "独自看世界", "gender": 1}
+{"content": "动漫宏大的世界设定，希望下一步尽快，更好看，，超越阿凡达的特效？，据说这片卡神筹备了几十年，电影中真人和CG几乎完美融合，毫无违和感，，建议看不出来本片特效好在哪的同学可以换个更好的电影院试试，感觉现在电影院设备正经是层次不齐，很多3D细节生生被影院吃了，个人准备换个好影院好厅再看看细节，，关于剧情，总有人不喜欢这种漫画感的剧情，因为就有人不爱看漫画，萝卜白菜各有所爱，，我的大爱", "score": 10, "nick": "清风徐来", "gender": 1}
+{"content": "非常奇幻，期待下一部电影的到来！", "score": 10, "nick": "禹华祥", "gender": 1}
+{"content": "好看，确实好看", "score": 10, "nick": "十五哥a", "gender": 0}
+{"content": "电影不错，但故事未结束，还得等下部。", "score": 6, "nick": "tuxedoman", "gender": 1}
+{"content": "特效可以，剧情尴尬，有始无终。", "score": 4, "nick": "乡村", "gender": 1}
+{"content": "阿丽塔让人心疼。又一部科幻神作，期待第二部！", "score": 10, "nick": "hazzy", "gender": 1}
+{"content": "破得无话可说", "score": 1, "nick": "絮凝往事", "gender": 1}
+{"content": "嗯！不错！好看！刺激！", "score": 10, "nick": "超@的流星", "gender": 1}
+{"content": "画面很不错，战斗很精彩", "score": 10, "nick": "Gautselin", "gender": 1}
+{"content": "好看好看好看好看", "score": 9, "nick": "candy", "gender": 2}
+{"content": "实话实说，看完我一直都不知道为什么要上天空之城，也不知道上面有什么值得奋不顾身，原著铳梦也差不多，我对于脑袋大眼睛大身体小这种比例有严重的不舒服，特别是最后那个男的走在管道上，一直觉得像个畸形，特别是最后在赛场上一群挂着人类头的机械让我很不适，比赛规则还不如让我去看死亡赛车。为什么一群机械改造的怪物要和普通人类生存在一起？完全可以暴乱割据独霸一方，还到天上去个毛！还要为一个区区小黑人卖命，留个人脑子也没人的思维方式。东方妹子也没干嘛也就喜欢上了一个外国黄毛阿子，就因为看了场球赛？3分打给画面制作和特效，花2亿刀能拍点高级的么，不要挂老爷子名卖狗肉了", "score": 3, "nick": "kamishinkyo", "gender": 2}
+{"content": "我要看电影，这部电影是我看过期间最好的特效电影。", "score": 10, "nick": "pioi", "gender": 0}
+{"content": "很好的作品，但剧情太短！", "score": 10, "nick": "小奋青的妈妈", "gender": 2}
+{"content": "就是不好看！", "score": 1, "nick": "🦋Dazo🦋", "gender": 1}
+{"content": "挺好看的，太短了 ", "score": 9, "nick": "Steve Ju", "gender": 1}
+{"content": "一刷阿丽塔的时候觉得很惊艳，那些打斗场景拍的太酷了，阿丽塔各种帅气\n二刷阿丽塔着重看那些精彩镜头，猜想到底怎么拍出来的。\n对于感情线，二刷后真觉得男主又天真又蠢，阿丽塔可能是雏鸟情节才喜欢的他吧，反正感情戏有点中二\n友情提示，因为部分场景比较暴力，虽然都是机器人身体打斗，见不到血，还是建议慎带小孩", "score": 9, "nick": "kanshin", "gender": 2}
+{"content": "无论制作，特效，细节，剧情各方面来说都无可挑剔。值得二刷三刷。只有去影院才能体会到的震撼。看完了就很期待第二部。说不好看的麻烦你原地爆炸。唯一美中不足的就是边上**任丘人太多。", "score": 10, "nick": "李茂宸", "gender": 0}
+{"content": "非常棒，赞赞赞赞赞赞", "score": 10, "nick": "心渃止水783", "gender": 2}
+{"content": "为什么那么多人说剧情差？是跟风吗？我真的觉得剧情好棒哎……特效不用说了吧……目前地球最好的，除非阿凡达2上映。", "score": 10, "nick": "北冥雪", "gender": 1}
+{"content": "宝宝说好看。", "score": 10, "nick": "XF安娜苏", "gender": 1}
+{"content": "好看，特效可以", "score": 10, "nick": "无名氏0729", "gender": 0}
+{"content": "期待明年下一部", "score": 9, "nick": "吕仁龙", "gender": 1}
+{"content": "女主给我的感觉就是智商不够，武力来凑，也就是个爽片", "score": 5, "nick": "夜長歌", "gender": 0}
+{"content": "粉丝向电影，基本照搬ova剧场版的剧情，所以好多情节特别生硬，普通观众看画面就好。", "score": 7, "nick": "xin", "gender": 0}
+{"content": "挺好看的，大片", "score": 10, "nick": "耶利亚女郎💃", "gender": 0}
+{"content": "看不懂 节奏慢 这种题材不喜欢", "score": 1, "nick": "旭日之桠🍀", "gender": 2}
+{"content": "和喜欢的人一起看的，所以给满分。\n阿丽塔很能打，顺带买了小米9\n期待下一部！", "score": 10, "nick": "宋老师？", "gender": 1}
+{"content": "引用知乎的神级影评，去米其林餐厅吃了一碗没放卤子的面条。。。然后还给你端走了", "score": 6, "nick": "小羽loge", "gender": 2}
+{"content": "剧情烂，特效还行。", "score": 6, "nick": "Mamyudapao", "gender": 1}
+{"content": "特效满分，剧情简单粗暴，现在的电影大抵如此…", "score": 7, "nick": "龙井茶", "gender": 1}
+{"content": "意犹未尽。。", "score": 10, "nick": "0", "gender": 1}
+{"content": "一般般，，剧情东拼西凑！结局也是搞不懂！", "score": 6, "nick": "微笑带过444", "gender": 1}
+{"content": "求你们了，想给一分的人就别看了，不需要你们贡献票房........", "score": 10, "nick": "baobao", "gender": 0}
+{"content": "爱了爱了！好嗨哦！", "score": 10, "nick": "藏卿win", "gender": 0}
+{"content": "个人感觉效果挺好，就是故事情节太短！总体来说不错！", "score": 8, "nick": "王翊汀", "gender": 2}
+{"content": "不错！还原动漫！贴近度很高！很好看，期待第二部", "score": 10, "nick": "wangxiao23809", "gender": 1}
+{"content": "剧情还可以。特效人物也作用得当。", "score": 9, "nick": "小布v5", "gender": 1}
+{"content": "怎么着也是动漫！不够真实！", "score": 1, "nick": "zhuzi0471", "gender": 1}
+{"content": "期待续集，很好看", "score": 10, "nick": "bao111985", "gender": 1}
+{"content": "说实话没有达到我的预期，特效满分，剧情一般，相比流浪地球的剧情细节碎片化，阿丽塔的剧情更没有共鸣，男女主的感情戏有点生硬，给我的感觉是阿丽塔是一个情窦初开，为爱可以去牺牲的女孩，男主则是一个****，各种背叛，最后有一丢丢浪子回头。打斗细节满分，场面却都是小打小闹，可能看完流浪之后看不上这些个人主义英雄类型的题材了吧，个人感觉，不喜勿喷。", "score": 7, "nick": "风华侦探", "gender": 1}
+{"content": "好看。。。。", "score": 10, "nick": "咦～聪霸", "gender": 1}
+{"content": "视觉效果棒棒的", "score": 9, "nick": "凡心偶至", "gender": 1}
+{"content": "特效巨爽，剧情乱七八糟", "score": 6, "nick": "dfZ945087684", "gender": 2}
+{"content": "本来是票买错了，不过真的好看", "score": 10, "nick": "cn朔卿", "gender": 2}
+{"content": "。。。。。。。。", "score": 8, "nick": "XP邪倾", "gender": 0}
+{"content": "有点尬！爱情呵呵", "score": 1, "nick": "lyF519339564", "gender": 1}
+{"content": "敢爱敢恨叭 少女！", "score": 9, "nick": "麻木", "gender": 2}
+{"content": "昨晚看的， 我是看的津津有味，动作特别流畅酷炫，期待第二部！", "score": 10, "nick": "男儿有志", "gender": 1}
+{"content": "电脑制作非常棒。效果也特别好。", "score": 9, "nick": "dearhuda", "gender": 1}
+{"content": "好看 果然卡梅隆", "score": 10, "nick": "泷菟", "gender": 0}
+{"content": "感动，精彩，视觉盛宴!", "score": 8, "nick": "tGJ994669324", "gender": 1}
+{"content": "特效可以，剧情一般", "score": 7, "nick": "OCU542974989", "gender": 1}
+{"content": "好看是好看了，但总觉得意犹未尽。", "score": 9, "nick": "FoG192512556", "gender": 0}
+{"content": "非常好看，推荐大家", "score": 10, "nick": "han910221", "gender": 2}
+{"content": "很燃的一部电影", "score": 10, "nick": "暖梦i", "gender": 0}
+{"content": "阿丽塔不需要男朋友，干就完事了", "score": 9, "nick": "Mrzpeace", "gender": 0}
+{"content": "非常棒！！！！！", "score": 10, "nick": "小邓以歆", "gender": 2}
+{"content": "背景太黑暗，字幕看不清", "score": 7, "nick": "HY团美", "gender": 1}
+{"content": "大眼暴力萌妹子？", "score": 9, "nick": "红星二锅头，", "gender": 0}
+{"content": "好看  好看   好看", "score": 10, "nick": "高甜呀呀呀", "gender": 0}
+{"content": "电影情节不怎么样，有点莫名其妙，但画面做的很不错，女主人眼睛好大", "score": 8, "nick": "nwatermelon", "gender": 1}
+{"content": "如果用前些日子喷子们评价流浪地球的要求来评价，那我最多一星给特效，剧情垃圾不说了，准备那么长时间爬柱子，一个滑铁车全军覆没了？什么硬核呢，更不用谈了。", "score": 6, "nick": "tKG441504915", "gender": 1}
+{"content": "我老婆本来就不喜欢看电影，一般看电影的时候就是玩手机要么睡觉，这次居然问我什么时候出第二部！", "score": 10, "nick": "中国第一官二代", "gender": 1}
+{"content": "故事情节虽比较老套 但是主线清晰 卡梅隆是个很会讲故事的人 3⃣️D效果不错 人物刻画也很不错 融合了西方圣经故事 一方面表达了人类魂牵梦绕的天堂及是地狱的理念 一方面又致敬雨果的我不入地狱 谁入地狱的大无畏精神 总之既有内涵 且颇具观赏性的一部好片子！nova 不是诺亚 撒冷也不是方舟！！希望在手中 把握靠自己！", "score": 9, "nick": "王者歸來", "gender": 1}
+{"content": "一般，没有流浪地球好看", "score": 1, "nick": "雨", "gender": 1}
+{"content": "好看，期待第二部", "score": 10, "nick": "xmJ894943997", "gender": 1}
+{"content": "一般般....没有很精彩", "score": 5, "nick": "cpcbtptp", "gender": 0}
+{"content": "没看过原著。也没了解过原著。就是冲着阿凡达特效团队去的。结果真不咋的。剧情太尬。特效还行。建议没看过原著的不要看。", "score": 5, "nick": "吃货特曼依", "gender": 2}
+{"content": "期待下一部！", "score": 10, "nick": "Stella？", "gender": 0}
+{"content": "阿丽眼睛实在太大，扣一分。", "score": 9, "nick": "Evita", "gender": 2}
+{"content": "有些人跟风观察细节，我只能说没有完美，这种水平的CG怕是我们望尘莫及的，真希望什么时候我们的电影能够抛开商业化捞金，真正的给影迷一个交代，真正的把钱花在刀刃上，为什么我们的科幻片没办法像好莱坞一样？值得思考。", "score": 10, "nick": "小丑🃏", "gender": 1}
+{"content": "没想到卡神的电影一部不如一部", "score": 1, "nick": "唛哩唛哩轰", "gender": 1}
+{"content": "女主人公说真的 挺好看的 打斗情景也很棒", "score": 10, "nick": "隔壁三哥爱耍流氓", "gender": 0}
+{"content": "电影很好看！感觉2小时特别特别快过去了！但是昆明新彩云影城（梁家河附近）出了问题，前面20分钟电影是花的，后面调试反映了才好，第一次遇到这样的问题，希望以后注意了，否则之前的剧情都错过了特别影响心情！！", "score": 9, "nick": "Sade_Masoch", "gender": 0}
+{"content": "刺激，实力满分", "score": 10, "nick": "李茂", "gender": 0}
+{"content": "在别的软件购得票，期待第二部", "score": 10, "nick": "絕塵", "gender": 1}
+{"content": "挺好看的，建议大家去看一下，阿凡达团队必出精品", "score": 10, "nick": "Kkw226784604", "gender": 0}
+{"content": "阿丽塔举刀准备大进攻了，突然影片结束了，就和世界杯决赛了，梅西起脚射门，你和我玩想知球进没进下届世界杯揭晓！这剧情不用看都知道结局了，就不用分两集演了吧……特效没得说满分，但是这剧情真是气人，裤子都脱了，你告诉我等下集…！", "score": 5, "nick": "0小飞哥0", "gender": 1}
+{"content": "剧情实在太老套，没有什么惊艳的地方，特效也一般。", "score": 4, "nick": "月神汐月", "gender": 1}
+{"content": "值得一看，很不错", "score": 9, "nick": "文哥", "gender": 1}
+{"content": "不错不错，就差一点就完美了。", "score": 10, "nick": "上山王123", "gender": 0}
+{"content": "好久没看到这么精彩的电影 剧情精彩 画面超出想象 节奏紧张 很期待下一部 👍", "score": 9, "nick": "阿强东北人", "gender": 0}
+{"content": "前段描述不错。中期就有点一般。主要讲男女主相恋，后期不错，结尾就一般。没有结尾的结尾，可能打算拍第二部吧", "score": 9, "nick": "黄5423364", "gender": 1}
+{"content": "好看！好看！好看！", "score": 10, "nick": "gbn922260548", "gender": 2}
+{"content": "很棒啊，我就很喜欢啊，说剧情的人，拜托写一下你想怎么的，原著剧情你了解过么，为了黑而黑？？你说差你倒是说出个所以然啊", "score": 9, "nick": "ㅤ", "gender": 2}
+{"content": "前边太拖拉，废话太多，后边简短了些，结局有点不好啊", "score": 6, "nick": "汐雅lucy", "gender": 0}
+{"content": "科幻题材只是故事外壳和框架，卡梅隆的电影，最关心人的成长。全程3D的视觉盛宴，对电影院设备要求很高，今年看到最好看的一场电影，人声鼎沸中戛然而止，期待续集～", "score": 10, "nick": "丁满 。", "gender": 2}
+{"content": "几乎没有逻辑可言，情节转折过于突兀", "score": 5, "nick": "nancy", "gender": 2}
+{"content": "想看第二次了。", "score": 10, "nick": "Embrace Nn°", "gender": 1}
+{"content": "很不错，特效满分，人物刻画也很好，就是剧情有点老套，推荐", "score": 9, "nick": "鸡蛋鸡", "gender": 1}
+{"content": "真的特别 特别 特别喜欢这部电影", "score": 10, "nick": "WYJ", "gender": 1}
+{"content": "非常不错，近几年少有的好电影！", "score": 10, "nick": "昊哥", "gender": 1}
+{"content": "剧情很紧凑，很刺激，比某球好看一百倍。阿凡达的制作团队，特效那是没得说。", "score": 10, "nick": "T🤯O👾N📱Y", "gender": 1}
+{"content": "不错，期待有下部", "score": 10, "nick": "大王叫我来巡山", "gender": 1}
+{"content": "这到底是真人拍的像cg还是cg整的像真人。剧情也是半坨💩", "score": 5, "nick": "Fitter_Q", "gender": 1}
+{"content": "感觉被骗了电影票，肯定还有后续，又得买。但剧情不错，也很精彩！", "score": 9, "nick": "bUk881083676", "gender": 0}
+{"content": "剧情垃圾，永远逃脱不了好莱坞式套路，硬式煽情贯穿全片，演员完全脸谱化，不管是阿丽塔（特效人物），她所谓的**小男友，还是医生夫妇，或者是才出现10秒的诺瓦，都是在尬演。最后结尾更是匪夷所思，女主持刀指向天空，摆明了就是要拍续集骗钱的意思！总体来讲，特效可以，剧情很烂的奇幻片（根本不能称为科幻片），强烈不建议去看！！！", "score": 1, "nick": "Leessang", "gender": 1}
+{"content": "心动滴感觉，", "score": 10, "nick": "小橙子🍊", "gender": 1}
+{"content": "看着看着正精彩的时候，突然就结束了，看的我莫名其妙的。🤯🤯🤯", "score": 5, "nick": "鱼摆摆.～", "gender": 2}
+{"content": "真的是震撼巨作，各个场景，各个细节做到这样已经是非常完美了！剧情紧凑，给人应接不暇的感觉，个人尤其喜欢阿里塔那一双布灵布灵的大眼睛。出2一定去看", "score": 10, "nick": "秋意浓nxwwei", "gender": 1}
+{"content": "制作精美，故事简单了点。", "score": 8, "nick": "EOl596194630", "gender": 0}
+{"content": "好看精彩绝伦好看精彩，就是女主角的男朋友死的有点可惜，明明可以阻止的，女主角却迟疑了♥", "score": 10, "nick": "粉红美宝", "gender": 2}
+{"content": "特效还不错，对卡梅隆期望太高了，所以只能给八分，没有当年泰坦的感动和阿凡达的惊艳", "score": 8, "nick": "gt333xxy", "gender": 1}
+{"content": "打斗场面很精彩，震撼。就是感觉3D效果不是很强烈", "score": 10, "nick": "馨儿妙", "gender": 0}
+{"content": "全程无尿点，不知不觉就看完了，很精彩", "score": 10, "nick": "纯情大尾巴狼", "gender": 1}
+{"content": "花了两个钟头看了一部预告片，不过特效确实非常不错", "score": 8, "nick": "嘉琳", "gender": 2}
+{"content": "看宣传片和文字简介，怎么像动画片《统梦》呢？而且只有第一本的剧情", "score": 6, "nick": "你瞅啥！", "gender": 1}
+{"content": "场面很炫很好看，个人觉得比流浪地球好看多了！流浪地球看了让我打呼呼，阿丽塔看了很过瘾，不知道有人有同感不？", "score": 10, "nick": "橙色水煮鱼", "gender": 2}
+{"content": "阿丽塔的战斗指数可以说是爆表的，她由内到外装备未来高科技展望。\n\n人类的智慧发展的顶峰，天空之城也会坠落，告诫我们要珍惜的意思吧。\n\n导演真的有意思，影片中的流浪狗儿不是名犬，只是一只杂交犬，出镜率如此的高，算是重要的配角了，以致影片结尾的彩蛋也是它的重生。\n期待…", "score": 10, "nick": "喜欢跳舞的笨熊", "gender": 1}
+{"content": "特效做得太好了，推荐看", "score": 10, "nick": "陈慧丽778", "gender": 2}
+{"content": "剧情拖沓不紧凑", "score": 1, "nick": "Dream", "gender": 1}
+{"content": "我觉得还行吧！", "score": 10, "nick": "骆爷英明", "gender": 1}
+{"content": "不好看没有出尽的效果", "score": 2, "nick": "高改帅", "gender": 0}
+{"content": "非常好看，阿丽塔眼睛真的好看，", "score": 10, "nick": "大魔王👿", "gender": 1}
+{"content": "战斗场面嗨爆\n很喜欢紧凑的剧情\n期待续篇🤓", "score": 9, "nick": "苏rr", "gender": 2}
+{"content": "好看，特效也好，故事也好😊", "score": 10, "nick": "jqygzsyq580", "gender": 0}
+{"content": "眼睛特别好看", "score": 10, "nick": "饭懒得天国", "gender": 1}
+{"content": "顶级特效与赛博朋克的完美结合，真实还原了原著漫画场景，流浪地球秒成渣渣灰！", "score": 9, "nick": "Zippo_2014", "gender": 0}
+{"content": "还不错 期待第二部", "score": 8, "nick": "ChiYing", "gender": 2}
+{"content": "很精彩，想象力也一流", "score": 10, "nick": "翠花", "gender": 2}
+{"content": "完美，媲美复仇者联盟", "score": 10, "nick": "薄凉爱人630", "gender": 1}
+{"content": "剧情很一般，也不知道想表达个啥。", "score": 3, "nick": ".", "gender": 1}
+{"content": "这个渲染级别，没得说哇，很棒了", "score": 9, "nick": "大雪糕丶", "gender": 1}
+{"content": "好看！没演完意犹未尽", "score": 10, "nick": "小小恶魔猎手", "gender": 1}
+{"content": "还行吧....", "score": 8, "nick": "笑許", "gender": 0}
+{"content": "油腻的标配男主，剧情有点老套，节奏拖沓，没有结尾看起来要强行整个续集", "score": 6, "nick": "GlB259886860", "gender": 1}
+{"content": "完美。。。。。。", "score": 10, "nick": "谁家那个小小谁", "gender": 1}
+{"content": "垃圾片，说好看吹的天花乱坠那些都是网络专业水军刷分队，第一次能在影院看电影睡着的", "score": 1, "nick": "man197800", "gender": 0}
+{"content": "喜欢打斗的场面  剧情凑合吧", "score": 10, "nick": "wtH843376801", "gender": 2}
+{"content": "还是流浪地球好看些", "score": 5, "nick": "阿少", "gender": 0}
+{"content": "勿忘我一样的剧情", "score": 10, "nick": "赵乐高", "gender": 1}
+{"content": "这剧情都不知道在讲什么，全剧没有什么地方看到我有激动的，平平淡淡的", "score": 6, "nick": "Phb152340412", "gender": 1}
+{"content": "非常好看，剧情又紧逼，虽然是机器人但是写的女主很生动像真人一样带人类的感情，棒棒哒", "score": 10, "nick": "樂楽🦂", "gender": 1}
+{"content": "能不能把故事演完？", "score": 9, "nick": "桥本丽香485", "gender": 2}
+{"content": "男主还行吧，挺帅的", "score": 10, "nick": "凉菜耶耶", "gender": 1}
+{"content": "后面告诉我们还会出第二部吧", "score": 8, "nick": "大熙💪", "gender": 1}
+{"content": "很不错的一部电影，应该准备出第二部了吧，", "score": 10, "nick": "虎纠话丫霸", "gender": 0}
+{"content": "这电影还有人吹捧，简直无语！故事情节，啥是故事情节？导演说了，我就是要给你们看个花园宝宝动画片，你还要什么故事情节", "score": 1, "nick": "Martin Fan¹³⁷º⁹⁶⁵º¹⁴⁸", "gender": 1}
+{"content": "很好看，就是相当模糊，应该是片子质量问题，期待下一部", "score": 8, "nick": "豆豆神枪手", "gender": 2}
+{"content": "大片剧情紧扣，动作特效真的满分，第二部应该世界更精彩", "score": 10, "nick": "寡人饿了哦", "gender": 1}
+{"content": "换了一套衣服就无敌了，说是什么机甲术，但表现得不够淋漓尽致！最后收尾太匆忙，不过这样子应该也是在为下一部做铺垫吧！", "score": 6, "nick": "Raa13876531509", "gender": 1}
+{"content": "昨天和朋友去看了阿丽塔激光巨幕厅，在没有看预告、简介以及原漫画的情况下去看的，这个电影的主人公阿丽塔，一个看似瘦瘦弱弱女孩有着惊人的爆发力！！她身上的拼劲和韧劲以及对待朋友家人的保护欲真的是感动！内容就不剧透了~墙裂推荐大家去看这部电影", "score": 9, "nick": "yome", "gender": 1}
+{"content": "Battle Angel Alita\n\n冲着卡梅隆担任编剧去的，奈何导演不是他\n\n剧情节奏有些拖沓，而且并没有对世界观进行交代，让我评分的话我给三星。令人眼前一亮的是CG特效，球场比赛那段帅到爆炸\n\n看的时候一度认为这怕是讲不完，结果最后的比赛刚刚换装没有开打就谢幕。倘若不拍第二部的话，这一部就真的算烂尾", "score": 6, "nick": "Martin__Chou", "gender": 1}
+{"content": "好看,3D👍", "score": 10, "nick": "海文的眼神", "gender": 0}
+{"content": "典型好莱坞特效爽片，移民大饼不可信啊！", "score": 8, "nick": "Jennifer", "gender": 2}
+{"content": "好看 没有结局的结局 期待下一部", "score": 10, "nick": "飞絮漫天徐超超", "gender": 0}
+{"content": "还可以吧，没理想中的那么好看", "score": 9, "nick": "raf647222361", "gender": 0}
+{"content": "说实话，打斗特效是真的帅，造型和细节处理也是真的精致，唯一遗憾就是不尽兴，太短了，一起看的人看完都不愿意走，哎呀，怎么就完了，扣一分闹心。", "score": 9, "nick": "呛呛的汽水", "gender": 1}
+{"content": "真心不好看，打瞌睡", "score": 1, "nick": "龙哥", "gender": 1}
+{"content": "看的首映，画面精致不失水准，漫画世界尽收眼底! 真人CG化人面孔的首次尝试，使阿丽塔的造型栩栩如生与常人无异。动作华丽流畅夺人眼球，简单暴力不血腥，结尾与天抗衡决绝之意尽显王者霸气。无可争议的电影工业巅峰之作，而且漫画还原度之高，动作设计之硬核，祝票房大卖！！！", "score": 10, "nick": "欧钰", "gender": 0}
+{"content": "应该会还有第二部", "score": 9, "nick": "低调生活", "gender": 1}
+{"content": "值了imax票价，暴力美学", "score": 10, "nick": "havetogiveup", "gender": 1}
+{"content": "非常好，震撼", "score": 9, "nick": "宇", "gender": 0}
+{"content": "非常好看，设计很精彩", "score": 10, "nick": "taa461716429", "gender": 2}
+{"content": "不错。。。。。", "score": 10, "nick": "轩先森", "gender": 0}
+{"content": "满分，喜欢艾丽塔就和以前喜欢爱丽丝一样", "score": 10, "nick": "Evan_Smile", "gender": 0}
+{"content": "网上说的特效效果如何如何，看不起《失落地球》，特地看一场，特效制作是有差距，但内容又是典型的好莱坞桔梗，看了前面，后面都知道啥结尾。跟《失落地球》相比较，它是我国划时代的科幻片，内容大气上档次，两者不可同日而语，有必要那么鄙视我国的科幻电影吗？打一分，是对那些鄙视《流浪地球》不理智的国人们一个讽刺。", "score": 1, "nick": "huiyi1999", "gender": 1}
+{"content": "太好看了吧，第二部属实期待", "score": 10, "nick": "Jasmine", "gender": 1}
+{"content": "完美，阿丽塔真的是帅炸", "score": 10, "nick": "刻薄sxm", "gender": 2}
+{"content": "一般的，感觉剧情不咋的，特效可以。", "score": 7, "nick": "FOG738055084", "gender": 0}
+{"content": "什么都好，唯一的不足就是没有结局，还有下一部🌚️🌚️", "score": 9, "nick": "RWr750321138", "gender": 0}
+{"content": "超级过瘾！！", "score": 10, "nick": "快问问神奇海螺吧", "gender": 1}
+{"content": "没合计内容这么精彩好看！好意外啊！战斗的非常精彩！喜欢！", "score": 10, "nick": "eTb843329109", "gender": 2}
+{"content": "效果酷炫，情节也可以，就是结尾有点生硬", "score": 9, "nick": "wolf66666", "gender": 1}
+{"content": "从影片开始一直就没有走过神，惊心动魄情节紧凑！特效简直太刺激了！整个影片无可挑剔，如果非要说有什么不足，结尾过于仓促，期待续集！", "score": 10, "nick": "兰色", "gender": 0}
+{"content": "特效完美，果然每一部作品都是里程碑一样的存在。", "score": 10, "nick": "长琴如歌", "gender": 0}
+{"content": "非常棒的电影", "score": 10, "nick": "陈健华", "gender": 0}
+{"content": "紧凑，特别好看", "score": 10, "nick": "ZKn490221968", "gender": 2}
+{"content": "看到了一场江湖，见到了一个世界～", "score": 10, "nick": "饕餮餐馆不存在", "gender": 0}
+{"content": "超级好看。期待下一部", "score": 10, "nick": "喜欢我77", "gender": 2}
+{"content": "心情差，才半夜去看的，人物比较精良，特效也不错。有点像移动城堡的剧情，应该有下一季。", "score": 10, "nick": "SrN957269139", "gender": 2}
+{"content": "很不错的电影！", "score": 10, "nick": "Richard·Liao", "gender": 1}
+{"content": "震撼 完美 期待下部", "score": 10, "nick": "管er", "gender": 1}
+{"content": "意犹未尽……", "score": 9, "nick": "余君迟", "gender": 1}
+{"content": "啦说上一口恶意耳机吗", "score": 10, "nick": "啦啦啦啦啦啦", "gender": 1}
+{"content": "前半场看到想睡觉，后半场还好吧！", "score": 1, "nick": "林佳凯", "gender": 1}
+{"content": "好看，场面太震撼了", "score": 9, "nick": "TVW182375540", "gender": 0}
+{"content": "卡神还是卡神，无敌阿丽，势不可挡", "score": 10, "nick": "CZF666", "gender": 1}
+{"content": "全程无尿点。", "score": 10, "nick": "邊～月風", "gender": 1}
+{"content": "一般般比流浪地球差点", "score": 6, "nick": "MgP395751158", "gender": 0}
+{"content": "卡神科幻大作，原著改编基本是得到还原了，建议各位看这片子之前先补下动漫《铳梦》再来看剧情，你会更有感觉。", "score": 9, "nick": "AA云南滚动集团代账注册～岳洸科", "gender": 0}
+{"content": "结尾感觉有点太匆忙，想还有续集吗", "score": 7, "nick": "eNu628895673", "gender": 1}
+{"content": "老少皆宜，值得推荐！", "score": 9, "nick": "摩丝", "gender": 2}
+{"content": "又一神作 跨时代的CG技术 19年度最佳特效片 未来可期", "score": 10, "nick": "Ethan", "gender": 1}
+{"content": "看完之后片尾有点出乎意料，希望第二部能够早点上映", "score": 9, "nick": "Young", "gender": 1}
+{"content": "虽然故事情节比较一般，但特效打斗，影片画面都非常不错，阿丽塔的细节刻画很细腻，尤其是一双大眼睛，非常值得推荐！", "score": 10, "nick": "谭_谭！", "gender": 0}
+{"content": "还不错，期待下一部", "score": 8, "nick": "善与恶", "gender": 1}
+{"content": "精彩 特效完美", "score": 10, "nick": "枫丨殇丨", "gender": 0}
+{"content": "特效很炫酷，画面很精致但剧情一般，个人主义表现太突出", "score": 5, "nick": "樱辞", "gender": 2}
+{"content": "女主角好帅，看着就喜欢，", "score": 10, "nick": "心乐。", "gender": 0}
+{"content": "背景音乐很震撼 人物设置酷毙了 剧情有刺激也有悲伤 女主角长的是真好看 而且配音的声音很有感觉", "score": 10, "nick": "眷眷浮生0705", "gender": 0}
+{"content": "唯一看到睡觉的电影。真心觉得节奏慢，也不精彩。", "score": 2, "nick": "李璠", "gender": 2}
+{"content": "超级好看，每个演员都很专业，演技完美，动作，特效满分，剧情9分。值得一看", "score": 10, "nick": "civilking", "gender": 1}
+{"content": "真的是震撼巨作，各个场景，各个细节做到这样已经是非常完美了！剧情紧凑，给人应接不暇的感觉，个人尤其喜欢阿里塔那一双布灵布灵的大眼睛。出2一定去看", "score": 10, "nick": "刘苏苏i", "gender": 2}
+{"content": "非常完美，值得一看", "score": 10, "nick": "NAg4864", "gender": 1}
+{"content": "很好看，值得推荐。", "score": 10, "nick": "朝朝0608", "gender": 2}
+{"content": "真的太一般了，特效也救不了你的剧情", "score": 1, "nick": "斗鱼汤可可", "gender": 1}
+{"content": "漫改成欧美风大片", "score": 9, "nick": "liuhanran", "gender": 1}
+{"content": "还是不错的，和家人一起欣赏，值得一看", "score": 9, "nick": "飞雪", "gender": 1}
+{"content": "特效值这个价", "score": 10, "nick": "QMP199666177", "gender": 0}
+{"content": "还有续集，嗯，还是很期待的，感觉不赖，挺好看的，动漫人物精致，大制作哦", "score": 9, "nick": "F伏霸霸", "gender": 0}
+{"content": "特效满分，打斗场面绚丽。", "score": 10, "nick": "棣夫爸爸", "gender": 1}
+{"content": "还会有续集吧", "score": 8, "nick": "张薇Sky", "gender": 0}
+{"content": "这是我的电影历史中最满意的一部电影", "score": 10, "nick": "cEL963996758", "gender": 0}
+{"content": "不错，好看，震撼", "score": 10, "nick": "MEi835785316", "gender": 0}
+{"content": "The special effects good，and leading lady is also beautiful", "score": 10, "nick": "z", "gender": 1}
+{"content": "特效不错，剧情差了点", "score": 8, "nick": "阳大大512631369", "gender": 0}
+{"content": "特效很好，打斗也很激烈，但是这剧情很莫名，一度有让我想快进的感觉", "score": 5, "nick": "琼楼轩", "gender": 0}
+{"content": "特效很强，剧情一般", "score": 8, "nick": "封举斌", "gender": 0}
+{"content": "特效做的很好", "score": 9, "nick": "勇敢的心", "gender": 1}
+{"content": "剧情一般，打斗激烈，特效不错，符合卡神特点", "score": 8, "nick": "沙洲浮云", "gender": 0}
+{"content": "特效炸裂，心潮澎湃", "score": 10, "nick": "潇湘杰子", "gender": 1}
+{"content": "确实还不错，值得一去的电影，还会有第二部，等着鸭", "score": 10, "nick": "por..", "gender": 0}
+{"content": "有头没尾！应该有二吧！", "score": 6, "nick": "李幺佛", "gender": 1}
+{"content": "8分给特效吧。剧情看起来有一些薄弱。", "score": 8, "nick": "披着被单的蜗牛", "gender": 1}
+{"content": "本来一直觉得3D电影普遍很暗，几乎都要因为亮度放弃对3D的期待了，结果今天巨幕?10FL 的配置，完全提升好感。电影本身速度力量质感都在线，继阿凡达之后又多了一个期待的续集。", "score": 10, "nick": "静待花开", "gender": 2}
+{"content": "阿丽塔太好看了", "score": 10, "nick": "伊露836", "gender": 2}
+{"content": "我不太喜欢，没头没尾的", "score": 1, "nick": "落魄的安琪儿", "gender": 2}
+{"content": "战斗很精彩，场景还原完美，仿佛置身原画世界。\n人物模型很可爱，很喜欢，一切都是棒棒哒！", "score": 9, "nick": "༩July.࿐", "gender": 2}
+{"content": "剧情一般，特效棒，一心只想看阿丽塔打架", "score": 6, "nick": "超级可爱兜", "gender": 0}
+{"content": "一部让蒸汽朋克迷整体高潮的的电影，刺激爽快的打斗节奏，穿插着人类与改造人的感情，不说了，我准备二刷。", "score": 10, "nick": "L", "gender": 1}
+{"content": "太好看啦，期待下一部作品，不过打都场面能再多一点就更好了。其他小角色也太不经打了！总的来说很棒。", "score": 10, "nick": "桐妺", "gender": 0}
+{"content": "特效没的说，非常好，剧情方面还需加强。", "score": 7, "nick": "老七爱看电视剧", "gender": 1}
+{"content": "好看好看好看好看", "score": 8, "nick": "橙子under", "gender": 0}
+{"content": "很好看，特效做得很好，剧情紧凑", "score": 10, "nick": "愿零54", "gender": 2}
+{"content": "电影看了特效方面没的说 真的牛逼  再说几点其它的\r1、带着黑深残心态去看，这看特效观影体验极佳。\r2、电影里的改编弱化了许多的矛盾冲突。最关键的还那就是男主犯罪的初衷没交代清楚，及我只是想上去撒冷看风景（挺单纯的）而不是去上面生活（←_←不过好像电影就是这么演的），然后男主为了赚钱就走上了犯罪道路。（这逻辑、这三观）\r3、情节安排不好，先发机甲然后你爸不给换，你就作死，作死成功，得到新的机甲。（?!来自书记的惊讶‼心疼医生一部阿丽塔的时长）这一点学学火影博人转剧场版的危机公关。\n一般般吧", "score": 4, "nick": "Rain佈", "gender": 1}
+{"content": "特效炸裂，剧情一般。结束的时候莫名其妙就结束了", "score": 6, "nick": "回忆未来297", "gender": 1}
+{"content": "都挺好。就是有点烂尾。", "score": 8, "nick": "無smile", "gender": 0}
+{"content": "完美的科幻大片，看到正高潮的时候，突然就没有了，真是可惜，期待下一集大作！", "score": 10, "nick": "人鱼传说", "gender": 1}
+{"content": "有点意犹未尽", "score": 9, "nick": "も夫", "gender": 0}
+{"content": "炒雞好看，，有衝勁O(∩_∩)O", "score": 9, "nick": "Icy詩", "gender": 2}
+{"content": "挺好看的，欢迎", "score": 10, "nick": "袁海洋", "gender": 1}
+{"content": "看看看看好看好看", "score": 10, "nick": "cqL198360574", "gender": 2}
+{"content": "细节满分，剧情还行", "score": 10, "nick": "BOSS", "gender": 1}
+{"content": "很一般，毫无惊艳感，剧情也很好猜。最主要感觉女主演的很莫名其妙。看得我差点睡着了。", "score": 6, "nick": "罗卿炀", "gender": 1}
+{"content": "我实在是不喜欢，血腥", "score": 2, "nick": "木村可可123", "gender": 2}
+{"content": "好看期待下一集", "score": 10, "nick": "KuK261573356", "gender": 2}
+{"content": "a", "score": 9, "nick": "草帽不败", "gender": 0}
+{"content": "非常好看！特效酷炫！不愧是卡神！", "score": 10, "nick": "nirvana0220", "gender": 0}
+{"content": "很喜欢喜欢喜欢喜欢", "score": 10, "nick": "娇研欧尼", "gender": 0}
+{"content": "好看好看，4D巨爽", "score": 10, "nick": "肯德炸鸡炸鸡", "gender": 2}
+{"content": "没有想象中的好看", "score": 6, "nick": "YWielder", "gender": 1}
+{"content": "还行，看得正起劲，发现电影结束了，居然还有下部。。", "score": 9, "nick": "香蕉_大魔王", "gender": 0}
+{"content": "比流浪地球好看～很多", "score": 10, "nick": "WMe445505084", "gender": 1}
+{"content": "确实好看，两小时瞬间过去，中国电影还有很长的路要走", "score": 10, "nick": "toffjoy58578", "gender": 1}
+{"content": "场面很华丽 但剧情比较一般 感觉全程暴力美学到后面有点审美疲劳了", "score": 7, "nick": "小鱼蛋", "gender": 0}
+{"content": "一部很精彩的电影，动作场面酷炫，场景宏大优美，特效满分。但到高潮就结束了，看来是要拍第二部。", "score": 10, "nick": "Simonster西蒙斯特", "gender": 0}
+{"content": "真奇怪，《绿皮书》居然里面的黑人老板，和《阿丽塔：战斗天使》里的黑人反派是同一个人出演[发呆] 这么当红[发呆]可是我先入为主，好讨厌的脸[发呆]", "score": 10, "nick": "dengian37", "gender": 1}
+{"content": "好看超级好看好看", "score": 9, "nick": "阿橙橙。", "gender": 0}
+{"content": "有血有肉，被主角所一举一动感染，真如他们所说，会爱上主角。", "score": 10, "nick": "Blueseastudents", "gender": 0}
+{"content": "还行吧就凑六个字", "score": 7, "nick": "沈澜。", "gender": 0}
+{"content": "特效不错，剧情一般，还行吧", "score": 8, "nick": "蛋蛋蛋饺", "gender": 0}
+{"content": "秒杀【流浪地球】", "score": 10, "nick": "IxK209205365", "gender": 0}
+{"content": "给9分，不给那一分是因为结局。毕竟是第一部，没有结局很正常。但是第一部这结局有些强行结尾。就好像阿丽塔不明不白就拿了冠军。过程没有。哪怕再打一场也好。结局仓促。其他地方，一个字。打的爽！", "score": 9, "nick": "程少阳.", "gender": 1}
+{"content": "真的挺好看挺不错的", "score": 10, "nick": "走黯de小迷弟", "gender": 0}
+{"content": "很cool~", "score": 10, "nick": "知否知fou", "gender": 0}
+{"content": "好看，还有下部。剧情没演完", "score": 10, "nick": "wanglii321", "gender": 2}
+{"content": "好看 电影院位置好", "score": 9, "nick": "会飞的麦小昆", "gender": 0}
+{"content": "不要每部电影都没有结局好吗？       老被认为有彩蛋 ", "score": 6, "nick": "💃 莪有一个梦像雨后的彩虹😇", "gender": 2}
+{"content": "阿丽塔！阿丽塔！阿丽塔！！", "score": 10, "nick": "Zheng yi jian18039008869", "gender": 1}
+{"content": "剧情稀烂……科幻片玩青春期小爱情套路真的接受无能……", "score": 3, "nick": "胡肖邦", "gender": 1}
+{"content": "完美，期待后面的第二部上映。", "score": 10, "nick": "赵宁宁", "gender": 2}
+{"content": "很好看。特效也不错。", "score": 10, "nick": "cTq13572035190", "gender": 1}
+{"content": "好看好看好看", "score": 10, "nick": "FinAlLY", "gender": 0}
+{"content": "视觉效果不错，挺好看的。", "score": 8, "nick": "爱淘淘bcm", "gender": 2}
+{"content": "喜欢这种电影，震撼", "score": 10, "nick": "李晨baby明明", "gender": 0}
+{"content": "很好看的一部科幻片，很赞", "score": 10, "nick": "易兮", "gender": 2}
+{"content": "不错，女主角好乖", "score": 10, "nick": "队长是我别开枪呀", "gender": 0}
+{"content": "好看，感觉很震撼", "score": 9, "nick": "WYX温小欣", "gender": 0}
+{"content": "人设满分，剧情太差", "score": 8, "nick": "铅笔头", "gender": 0}
+{"content": "除了科幻感强烈，其他真没看出什么，个人观点，不喜勿喷。", "score": 8, "nick": "醉枫染墨等枫", "gender": 0}
+{"content": "燃到爆，必须要看亲们，", "score": 10, "nick": "qczryu", "gender": 1}
+{"content": "虎头蛇尾，结尾很让人摸不到头脑", "score": 5, "nick": "菁菁", "gender": 0}
+{"content": "特效牛B，剧情太常态了，改编的有些失望，平淡的开始，无味的结束，看完后没有期望的那么大，看在牛B的特技特效上打7分", "score": 7, "nick": "雪影千寻230", "gender": 1}
+{"content": "太棒了👏👏👏👏👏👏👏👏超级喜欢的！完美演绎完美", "score": 9, "nick": "yYj538898266", "gender": 0}
+{"content": "一般般吧，看看可以", "score": 9, "nick": "泰山649996", "gender": 1}
+{"content": "屎一样的剧情，背景介绍基本没有，情节及情感突兀而尴尬，打斗场景无任何特色，只是疯狂追求各种断肢解体，科幻战斗大片拍成了恋爱尬聊剧，结尾不伦不类，像陀掉在你脚上的屎一样让你难受。唯一的优点就是特效比较炫，偶尔几个视觉冲击让你不自觉跟着躲闪，技术确实很厉害。总体评价不建议观看", "score": 1, "nick": "流浪6856", "gender": 1}
+{"content": "卡姿兰大眼睛👁️  👁️", "score": 10, "nick": "端华99", "gender": 0}
+{"content": "特效没得说，燃到爆。", "score": 9, "nick": "忠衧蒝菋", "gender": 0}
+{"content": "好看死了真的", "score": 10, "nick": "Glory554", "gender": 1}
+{"content": "太棒了太好看了", "score": 10, "nick": "haobiby", "gender": 1}
+{"content": "特效不错，一步超前的爱情片，适合谈恋爱的人看。都这个文明了，女主都纳米战衣了，却都不会飞，漫威看了都笑笑", "score": 8, "nick": "栤龙", "gender": 1}
+{"content": "我在电影院看到，我已经爱上阿丽塔了", "score": 10, "nick": "卡哇伊00115", "gender": 1}
+{"content": "很好看啊，！！！！", "score": 9, "nick": "LpW855887812", "gender": 1}
+{"content": "两个字 刺激，一个字 爽 没看够", "score": 10, "nick": "mXc477494833", "gender": 1}
+{"content": "可能没看过原著，电影里人物关系交代的不是很清楚…剧情也有些叙述不到位…特效方面还是可以的，跟以往美国大片特效比基本都差不多……没有什么亮点……说白了……美国大片看多了……这样的特效看习惯了，只能给8分……这要是国产片指定给10分……差的2分是指新鲜感……", "score": 8, "nick": "lang8884", "gender": 1}
+{"content": "总体来说还是不错，特效华丽，剧情一般，给我一种看头号玩家的感觉，故事模板十分类似", "score": 7, "nick": "Jpj483327970", "gender": 1}
+{"content": "看看吧。好看。", "score": 10, "nick": "柒妜", "gender": 2}
+{"content": "就总体来说，帅气，打斗精彩，阿丽塔精干", "score": 10, "nick": "精神穷鬼穷", "gender": 0}
+{"content": "画面漂亮，暴力美学满分。可惜情节严重缺乏说服力。只能说是一部视觉电影。", "score": 5, "nick": "雪刃风", "gender": 1}
+{"content": "故事情节很棒，特效也很精彩", "score": 10, "nick": "言语", "gender": 0}
+{"content": "感情戏份很足，特效也很赞", "score": 10, "nick": "zhengboyu1", "gender": 0}
+{"content": "跟铳梦的剧情一毛一样  就是特效蛮好看的😹", "score": 10, "nick": "夜幕孤狼885", "gender": 1}
+{"content": "确实好，好电影", "score": 10, "nick": "原味二狗子", "gender": 0}
+{"content": "非常不错，满分！", "score": 10, "nick": "忧郁的食客", "gender": 1}
+{"content": "好看，但是有点打打杀杀的，我不喜欢看。", "score": 8, "nick": "银鼠LBJ", "gender": 1}
+{"content": "打斗十分，背景9分，剧情7分(●—●)", "score": 10, "nick": "文韬", "gender": 0}
+{"content": "很心错的一部电影，其待第二部！", "score": 10, "nick": "欧", "gender": 1}
+{"content": "炒作了，睡着了", "score": 1, "nick": "缘来是酱紫", "gender": 2}
+{"content": "电影不错，环境一般", "score": 10, "nick": "希6768", "gender": 1}
+{"content": "一塌糊涂，美国人的剧情，不需多努力就可获得的成功，不需多交流就会产生的爱情，莫名其妙的泪点，明显的政治正确，一分给特效", "score": 1, "nick": "sikou9", "gender": 1}
+{"content": "特效其他的不说，阿丽塔看着就是假人，出戏，剧情就没有", "score": 3, "nick": "女孩向前冲gogo", "gender": 2}
+{"content": "内容挺好看的还挺激情的，但是咱们国家的震撼片比这个好看一点，看的是4D，和普通的不一样，就是不能退票，定了2张，朋友去不了那张就瞎在了手里，心疼😭，这点不人性化", "score": 8, "nick": "quiet768", "gender": 2}
+{"content": "很棒的一部电影，6666", "score": 10, "nick": "文艺阿斌", "gender": 0}
+{"content": "最振奋的地方剧终了，有点突然", "score": 10, "nick": "张翼", "gender": 1}
+{"content": "超级好看，战斗美少女。", "score": 10, "nick": "球瓜瓜", "gender": 1}
+{"content": "视觉盛宴！期待下一部", "score": 10, "nick": "Ποσειδῶν", "gender": 1}
+{"content": "不喜欢这种世界", "score": 10, "nick": "不完美的小孩", "gender": 1}
+{"content": "非常好看。。。", "score": 10, "nick": "zng194606706", "gender": 2}
+{"content": "挺好看的，真的是赞，期待第二部", "score": 10, "nick": "手机手机😊 😊", "gender": 1}
+{"content": "（*ﾟ∀ﾟ）つ―{}@{}@{}-　来吃烧烤♪", "score": 10, "nick": "刘hart0321", "gender": 1}
+{"content": "卡梅隆团队做的真好，剧情无拖拉，给面续集做了铺垫，阿丽塔流眼泪的样子真的好看。", "score": 10, "nick": "HSGOGO", "gender": 1}
+{"content": "卡导的电影评价一直不错，这次的阿丽塔感觉体现不出卡导的实力，特效上，略比阿凡达低一点，特效主要用在了阿丽塔身上，但是剧情真的要吐槽，剧情走向实在是太快了，两小时我感觉就过了一小时半多点，重点全放在了阿丽塔的身上，反差萌太过了点，阿丽塔找到飞船那里没有做多一点的解释，实在太过仓促，还有结尾太水了草草了事，应该加长一下来一场机动球比赛特写，这样结尾会好一些，把预示有下一部的这个彩蛋安在放啪姐的歌曲时那里", "score": 9, "nick": "巧克力味的无殇", "gender": 1}
+{"content": "画面非常精致", "score": 10, "nick": "大港城彭于晏～", "gender": 0}
+{"content": "这个片出乎了我的意料，比我想象中的要好", "score": 10, "nick": "L瞬间永恒.", "gender": 0}
+{"content": "哈哈哈哈叫姐姐", "score": 10, "nick": "树洞hyh", "gender": 0}
+{"content": "真的很好看！", "score": 10, "nick": "lnghb6", "gender": 1}
+{"content": "很不错，情感细腻，使我想去了解整个故事，看了久久回味", "score": 9, "nick": "门前雪", "gender": 2}
+{"content": "场景打斗可以，剧情一般", "score": 6, "nick": "淡淡的", "gender": 0}
+{"content": "好看刺激，热血，好片不看浪费", "score": 10, "nick": "外卖2333333", "gender": 1}
+{"content": "卡大师的作品没的说，但是结尾不太精彩告诉你还有下一部，哈哈哈", "score": 9, "nick": "根戈", "gender": 1}
+{"content": "眼睛好大，好亮，会把自己的心掏出来给他男朋友，我也想有个这样的女宝宝😁", "score": 10, "nick": "陪伴", "gender": 1}
+{"content": "一惊一乍的~", "score": 10, "nick": "青阳。", "gender": 1}
+{"content": "阿丽塔真的好帅啊😭 😭 😭 ", "score": 10, "nick": "喜荣", "gender": 1}
+{"content": "废土末日参杂着重金属,赛博朋克贪恋着星际争霸,罪恶都市充满着血腥爆燃.天使般丽质的钢之处女；疯狂改造炙烤灵魂的科学怪人；有气势如虹却深爱如伤的血族御姐；有控制欲无所不在如蛆附骨的大独裁者；有邋遢颓废却也曾扭转乾坤的黑客卢瑟；有唯我独尊的修罗和心系众生的高僧同门；有浪荡戏谑杀人如拈花的霹雳娇娃。这个世界它拒绝泛滥式的卖萌卖肉卖节操；它拒绝所欲美梦意淫与一切形式的乌托邦；它森严冰冷世事无常人心险恶；它毫不避讳从不粉饰；它将森罗万象协调搭配自成一体，以此取信于人乃至使他们沉溺，所营造的让人不知不觉认为它既现实。这就是木城雪户的《铳梦》这就是木城雪户的加里，让卡梅隆的梦想终于化成了《阿丽塔：战斗天使》", "score": 10, "nick": "Evangelion_TNT", "gender": 1}
+{"content": "完美完美完美", "score": 10, "nick": "莪要的你给不起", "gender": 2}
+{"content": "真的太好看了TTTTTTTTT\n如果旁边没有坐着一个疯狂推测剧情而且还全猜对的朋友的话会更好的：)\n影院环境也很好！！最主要是电影很好看OTZ\n结尾放啪姐的Swan Song的时候已经燃出一身汗了！！！！！中途想上厕所都舍不得去 简直非常值得二刷了！！！！", "score": 10, "nick": "AkigawaYuka", "gender": 0}
