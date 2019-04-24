@@ -1,4 +1,5 @@
 ## \# 淘宝模拟登录方法
+![](https://img.shields.io/badge/build-Python3-green.svg) ![](https://img.shields.io/badge/author-donlex-yellowgreen.svg) ![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Python%E7%BB%BF%E6%B4%B2-blue.svg)
 
 在这里分享一下三种，模拟登录的方法
 
