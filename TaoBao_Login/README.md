@@ -9,6 +9,7 @@
 上面都是使用 `Selenium` 进行模拟登录的，这样就可以不用手动添加各种`Cookie`或者`Session`，少了很多工作。
 
 **详细效果请继续阅读，具体代码自行理解，都是非常简单的**
+
 **注：仅供技术交流使用，请不要用作其他用途！**
 
 ### \# 淘宝账号登录
@@ -22,8 +23,8 @@ options.add_experimental_option('excludeSwitches'['enable-automation'])
 browser = webdriver.Chrome(options=options)
 ```
 
-效果
-**插入图片**
+效果：
+![](https://i.loli.net/2019/04/24/5cc02db5ec2a0.gif)
 
 当然这只是让`Selenium`通过淘宝的滑块验证而已，至于如何滑动还是需要自己动手撸代码才能实现真正的自动。。。
 
@@ -32,7 +33,7 @@ browser = webdriver.Chrome(options=options)
 
 在淘宝网的登录页面，有第三方登录的入口，试了一下，发现绑定微博的账号跟淘宝更配哦。直接通过`Selenium`控制，输入微博账号和密码，**不需要滑块验证，不需要滑块验证，不需要滑块验证**(重要的事情说**，直接就可以登录。
 
-**插入微博登录**
+![](https://i.loli.net/2019/04/24/5cc02db27e6db.gif)
 
 
 ### \# 扫码登录
@@ -58,7 +59,7 @@ if __name__ == '__main__':
 ```
 
 效果：
-**扫码效果**
+![](https://i.loli.net/2019/04/24/5cc02db6efca9.gif)
 
 
 ### \# 最后

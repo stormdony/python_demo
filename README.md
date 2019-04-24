@@ -16,6 +16,7 @@
 	* [Netease_Lyrics](https://github.com/stormdony/python_demo/tree/master/Netease_Lyrics) 一键获取带有时间轴的网易云音乐的歌词
 	* [LiePin](https://github.com/stormdony/python_demo/tree/master/LiePin) 爬取猎聘网，找到搜索岗位需要掌握的工具或语言
 	* [MaoYan_Alita_Battle_Angel](https://github.com/stormdony/python_demo/tree/master/MaoYan_Alita_Battle_Angel) 爬取猫眼电影的评论，分析电影《阿丽塔：战斗天使》
+	* [TaoBao_Login](https://github.com/stormdony/python_demo/tree/master/TaoBao_Login) 使用Selenium模拟登录淘宝网
 	
 	
 
