@@ -6,46 +6,12 @@
 因为[图灵机器人](http://www.turingapi.com)现在需要实名认证，并每天免费数量只有100条，感觉非常麻烦，所以找了一个免费的接口-**[青客云](http://api.qingyunke.com/)**，虽然这个智能程度没有图灵机器人那么高，但是也足够应付基本的消息了，不过有时候有点智障，**谨慎使用哈**。
 
 以下是接口说明：
-![青客云api](https://i.loli.net/2019/07/04/5d1df6fdad7a558919.png)
-
+<img src="https://i.loli.net/2019/07/04/5d1df6fdad7a558919.png" width = 40% height = 40% />
 ## 安装库
 
 需要安装以下python库才能够跑起来
 1. itchat
 2. requests
-
-
-### 具体代码
-
-```python
-# -*- coding: utf-8 -*-
-# @Time    : 2019/7/3 14:23
-# @Author  : donlex
-# @Email   : donlex@qq.com
-# @Software: PyCharm 2018.1.4 (Professional Edition)
-import itchat
-import requests
-
-def get_response(msg):
-    apiUrl = 'http://api.qingyunke.com/api.php?key=free&appid=0&msg={}'.format(
-        msg)
-    # 发送post请求
-    r = requests.post(apiUrl).json()
-    # 替换br字符串
-    response = r.get('content').replace('{br}', '\n')
-    return response
-
-# 用于接收来自朋友间的对话消息
-# 如果不用这个，朋友发的消息便不会自动回复
-@itchat.msg_register(itchat.content.TEXT)
-def print_content(msg):
-    return get_response(msg['Text'])
-
-
-if __name__ == '__main__':
-    itchat.auto_login(True) #保存登录信息，下次不用扫码
-    itchat.run()
-```
 
 ## 详细解释
 
