@@ -6,7 +6,8 @@
 因为[图灵机器人](http://www.turingapi.com)现在需要实名认证，并每天免费数量只有100条，感觉非常麻烦，所以找了一个免费的接口-**[青客云](http://api.qingyunke.com/)**，虽然这个智能程度没有图灵机器人那么高，但是也足够应付基本的消息了，不过有时候有点智障，**谨慎使用哈**。
 
 以下是接口说明：
-<img src="https://i.loli.net/2019/07/04/5d1df6fdad7a558919.png" width = 40% height = 40% />
+
+<img src="https://i.loli.net/2019/07/04/5d1df6fdad7a558919.png" width = 80% height = 80% />
 ## 安装库
 
 需要安装以下python库才能够跑起来
