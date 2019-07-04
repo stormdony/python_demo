@@ -8,6 +8,7 @@
 以下是接口说明：
 
 <img src="https://i.loli.net/2019/07/04/5d1df6fdad7a558919.png" width = 80% height = 80% />
+
 ## 安装库
 
 需要安装以下python库才能够跑起来
