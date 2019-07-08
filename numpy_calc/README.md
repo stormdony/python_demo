@@ -17,8 +17,7 @@ pyqt5-tools  5.9.0
 |  
 |-**calc.ui**  使用`qtdesign`拖拽式生成的文件  
 |-**calc.py**  使用`pyqt_tool`将`calc.ui`转换成的py文件  
-|-**numpy_calc.py ** 总文件，将`calc.py`所有内容复制到这里，并添加其他代码  
- 
+|-**numpy_calc.py** 总文件，将`calc.py`所有内容复制到这里，并添加其他代码  
 
 ## 效果
 ![](https://i.loli.net/2019/07/08/5d22ab252fece56357.png)

@@ -175,7 +175,11 @@ class Ui_MainWindow(object):
         self.label_6.setText(_translate("MainWindow", "TextLabel"))
         self.menuHelp.setTitle(_translate("MainWindow", "Help"))
         self.actionAbout.setText(_translate("MainWindow", "About"))
-
+        #
+        # 以上为UI文件转换内容
+        # 以下为添加内容
+        #
+        self.actionAbout.triggered.connect(self.show_my_window)  # 绑定事件
     def show_my_window(self):
         '''
         帮助弹出页面
@@ -197,9 +201,9 @@ class Ui_MainWindow(object):
         <body>
         <h3>矩阵计算器</h3>
         <p>简介:  一个基于Numpy和PyQt编写的轻量级矩阵计算器,可以快速的计算出矩阵的结果</p>
-        <p>版本:  1.0.0</p>
-        <p>作者:   <a href="https://github.com/stormdony">Don Lex </a></p>
-        <p>反馈邮箱: stormdony@foxmail.com</p>
+        <p>版本:  1.2.0</p>
+        <p>作者:   <a href="https://donlex.cn">Don Lex </a></p>
+        <p>反馈邮箱: donlex@qq.com</p>
         <p>项目地址:  <a href="https://github.com/stormdony/python_demo">https://github.com/stormdony/python_demo/numpy_demo</a></p>
         </body>
         </html>
