@@ -89,13 +89,6 @@
      </rect>
     </property>
     <layout class="QGridLayout" name="gridLayout_2">
-     <item row="2" column="0">
-      <widget class="QPushButton" name="btn_inv">
-       <property name="text">
-        <string>矩阵的逆</string>
-       </property>
-      </widget>
-     </item>
      <item row="0" column="0">
       <widget class="QPushButton" name="btn_clear">
        <property name="text">
@@ -110,10 +103,10 @@
        </property>
       </widget>
      </item>
-     <item row="5" column="0">
-      <widget class="QPushButton" name="btn_solve">
+     <item row="3" column="0">
+      <widget class="QPushButton" name="btn_t">
        <property name="text">
-        <string>解矩阵方程</string>
+        <string>转置</string>
        </property>
       </widget>
      </item>
@@ -124,10 +117,31 @@
        </property>
       </widget>
      </item>
-     <item row="3" column="0">
-      <widget class="QPushButton" name="btn_t">
+     <item row="2" column="0">
+      <widget class="QPushButton" name="btn_inv">
        <property name="text">
-        <string>转置</string>
+        <string>矩阵的逆</string>
+       </property>
+      </widget>
+     </item>
+     <item row="6" column="0">
+      <widget class="QPushButton" name="btn_eigvalue">
+       <property name="text">
+        <string>特征值</string>
+       </property>
+      </widget>
+     </item>
+     <item row="5" column="0">
+      <widget class="QPushButton" name="btn_solve">
+       <property name="text">
+        <string>解矩阵方程</string>
+       </property>
+      </widget>
+     </item>
+     <item row="7" column="0">
+      <widget class="QPushButton" name="btn_var">
+       <property name="text">
+        <string>方差</string>
        </property>
       </widget>
      </item>
@@ -181,6 +195,19 @@ p, li { white-space: pre-wrap; }
      </item>
     </layout>
    </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>540</x>
+      <y>560</y>
+      <width>54</width>
+      <height>12</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
@@ -188,7 +215,7 @@ p, li { white-space: pre-wrap; }
      <x>0</x>
      <y>0</y>
      <width>800</width>
-     <height>31</height>
+     <height>23</height>
     </rect>
    </property>
    <widget class="QMenu" name="menuHelp">
